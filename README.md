@@ -4,6 +4,12 @@ Mkitxavi is a tarot and astrology app in Georgian and English. Chat with Maria, 
 
 This is the source release of a retired project. Running a copy requires your own services and credentials. Production accounts and private backups are not part of the repository.
 
+![Mkitxavi chat interface with Maria and options for tarot, coffee, palm, and dream readings](public/screenshots/mkitxavi-chat.png)
+
+## A personal note
+
+When I made this, I was a stupid young teenager with big ambitions for this project.
+
 ## Run locally
 
 You need a recent Node.js release, Bun, and your own Supabase project.
