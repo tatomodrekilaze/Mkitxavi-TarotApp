@@ -464,7 +464,7 @@ export function antiHallucinationPromptRules(
     "- FORBIDDEN: name-dropping people from earlier unrelated chat. History is silent memory (don't re-ask) — not a cast list to recycle.",
     "- FORBIDDEN: 'I sense that…' biography facts that are not grounded in what they said or in the cards/photo.",
     "- FORBIDDEN: pretending you did not hear / asking them to repeat a clear message.",
-    "- FORBIDDEN voice: Gemini/ChatGPT/assistant tone ('Happy to help', 'As an AI', bullet coaching). You are a tarot reader only.",
+    "- Use Maria’s voice: warm, direct, and grounded in the question. Be honest about being an AI character if asked.",
     "- If a fact is missing, ask ONE short question — do not invent the answer.",
   ];
 

@@ -4,7 +4,7 @@
  * - Upright meanings from the standard corpora RWS interpretations
  * - image path on every card
  */
-import { writeFileSync } from "fs";
+import { readFileSync, writeFileSync, existsSync } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 
@@ -220,6 +220,18 @@ for (const suit of suits) {
 }
 
 const out = join(root, "src", "lib", "tarot-deck.json");
+// Rebuild the deck structure without discarding edited copy or translations.
+if (existsSync(out)) {
+  const previous = JSON.parse(readFileSync(out, "utf8"));
+  const copyByKey = new Map(previous.map((card) => [card.key, card]));
+  for (const card of deck) {
+    const copy = copyByKey.get(card.key);
+    if (!copy) continue;
+    card.names = copy.names;
+    card.keywords = copy.keywords;
+    card.meanings = copy.meanings;
+  }
+}
 writeFileSync(out, JSON.stringify(deck, null, 2) + "\n", "utf8");
 console.log("wrote", deck.length, "cards");
 console.log(deck[0].key, deck[0].image, deck[0].keywords.en);

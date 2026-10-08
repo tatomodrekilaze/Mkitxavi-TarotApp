@@ -3,7 +3,7 @@ interface Props {
   size?: number;
 }
 
-/** Original brand PNG. Keep this small on landing; do not blow it up. */
+/** Use the original logo at a size that keeps it sharp. */
 export function BrandMark({ className, size = 36 }: Props) {
   return (
     <img
