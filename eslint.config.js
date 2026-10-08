@@ -8,15 +8,7 @@ import tseslint from "typescript-eslint";
 export default tseslint.config(
   // .vercel holds the bundled build output; linting it made `bun run lint` hang.
   {
-    ignores: [
-      "dist",
-      ".output",
-      ".vinxi",
-      ".vercel",
-      ".nitro",
-      "public",
-      "src/routeTree.gen.ts",
-    ],
+    ignores: ["dist", ".output", ".vinxi", ".vercel", ".nitro", "public", "src/routeTree.gen.ts"],
   },
   {
     extends: [js.configs.recommended, ...tseslint.configs.recommended],
