@@ -1,0 +1,6 @@
+# Mkitxavi
+
+Mkitxavi is an open-source tarot and astrology app in Georgian and English.
+Maria is an AI character. Readings are for entertainment and reflection.
+The source includes account management, saved chats, card meanings, and a staff console.
+This repository does not include production accounts, credentials, or user records.

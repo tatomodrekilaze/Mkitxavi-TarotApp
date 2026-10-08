@@ -1,0 +1,9 @@
+dist
+.output
+.vinxi
+.vercel
+.nitro
+node_modules
+public
+bun.lock
+src/routeTree.gen.ts

@@ -1,0 +1,146 @@
+{
+  "magician": {
+    "kw": {
+      "en": "Will · Skill · Manifestation",
+      "ka": "ნება · ოსტატობა · გამოვლინება",
+      "ru": "Воля · Мастерство · Проявление"
+    },
+    "m": {
+      "en": "The Magician channels raw intention into form. You already hold the tools you need, focus them, speak clearly, and begin. Action taken now bends the path.",
+      "ka": "ჯადოქარი განზრახვას ფორმაში აქცევს. საჭირო ხელსაწყოები უკვე გაქვს, გაამახვილე ყურადღება, თქვი მკაფიოდ და დაიწყე. ახლა გადადგმული ნაბიჯი გზას ხრის.",
+      "ru": "Маг превращает намерение в форму. Нужные инструменты уже у тебя, собери фокус, скажи ясно и начни. Шаг, сделанный сейчас, меняет путь."
+    }
+  },
+  "high-priestess": {
+    "kw": {
+      "en": "Intuition · Mystery · Silence",
+      "ka": "ინტუიცია · საიდუმლო · სიჩუმე",
+      "ru": "Интуиция · Тайна · Тишина"
+    },
+    "m": {
+      "en": "The High Priestess asks you to listen beneath the noise. Answers live in dreams, gut feelings, and quiet pauses. Do not force clarity, let what is hidden rise on its own.",
+      "ka": "მღვდელმთავარი გთხოვს ხმაურის ქვეშ მოსმენას. პასუხები სიზმრებში, შეგრძნებებსა და სიჩუმეში ცხოვრობს. ნუ აიძულებ სიცხადეს, ნება მიეცი დამალულს თავად ამოსვლას.",
+      "ru": "Жрица просит слушать под шумом. Ответы живут в снах, ощущениях и паузах. Не вынуждай ясность, дай скрытому подняться само."
+    }
+  },
+  "empress": {
+    "kw": {
+      "en": "Abundance · Care · Creation",
+      "ka": "უხვება · ზრუნვა · შემოქმედება",
+      "ru": "Изобилие · Забота · Творчество"
+    },
+    "m": {
+      "en": "The Empress is fertile ground, ideas, love, and comfort want to grow. Nourish your body and your projects; beauty and generosity invite more of the same.",
+      "ka": "იმპერატრიცა ნაყოფიერი ნიადაგია, იდეები, სიყვარული და სიმშვიდე იზრდება. იზრუნე სხეულსა და საქმეებზე; სილამაზე და გულუხვობა იგივეს იზიდავს.",
+      "ru": "Императрица, плодородная почва: идеи, любовь и покой хотят расти. Питай тело и дела; красота и щедрость притягивают то же самое."
+    }
+  },
+  "lovers": {
+    "kw": {
+      "en": "Choice · Union · Alignment",
+      "ka": "არჩევანი · კავშირი · ჰარმონია",
+      "ru": "Выбор · Союз · Созвучие"
+    },
+    "m": {
+      "en": "The Lovers mark a heart-level choice. Align with what you truly value, in love or in self. A bond deepens when both sides stay honest.",
+      "ka": "შეყვარებულები გულის დონის არჩევანს აღნიშნავენ. გაერთიანდი იმასთან, რასაც ნამდვილად აფასებ, სიყვარულში თუ საკუთარ თავში. კავშირი ღრმავდება, როცა ორივე მხარე გულწრფელია.",
+      "ru": "Влюблённые отмечают выбор сердца. Согласуйся с тем, что по-настоящему ценишь, в любви или в себе. Связь углубляется, когда обе стороны честны."
+    }
+  },
+  "chariot": {
+    "kw": {
+      "en": "Drive · Victory · Direction",
+      "ka": "სწრაფვა · გამარჯვება · მიმართულება",
+      "ru": "Движение · Победа · Направление"
+    },
+    "m": {
+      "en": "The Chariot charges forward once opposing forces are harnessed. Stay disciplined, hold the reins, and progress will come through determined motion.",
+      "ka": "ეტლი წინ მიიწევს, როცა საწინააღმდეგო ძალები ერთად იკრიბება. იყავი დისციპლინირებული, გეჭიროს სადავეები, პროგრესი მტკიცე მოძრაობით მოდის.",
+      "ru": "Колесница мчится вперёд, когда противоположные силы собраны. Будь дисциплинирован, держи вожжи, прогресс приходит через решительное движение."
+    }
+  },
+  "strength": {
+    "kw": {
+      "en": "Courage · Soft power · Patience",
+      "ka": "სიმამაცე · რბილი ძალა · მოთმინება",
+      "ru": "Смелость · Мягкая сила · Терпение"
+    },
+    "m": {
+      "en": "Strength is gentle mastery over fear and impulse. Soft courage outlasts force, tend the wild parts of yourself with compassion, not control.",
+      "ka": "ძალა შიშისა და იმპულსის რბილი დაუფლებაა. რბილი სიმამაცე ძალას გადააჭარბებს, გაუფრთხილდი შენს ველურ ნაწილებს თანაგრძნობით, არა კონტროლით.",
+      "ru": "Сила, мягкое владение страхом и импульсом. Мягкая смелость сильнее грубой силы, заботься о дикой части себя с состраданием, а не контролем."
+    }
+  },
+  "wheel": {
+    "kw": {
+      "en": "Cycles · Luck · Turning point",
+      "ka": "ციკლები · იღბალი · გარდატეხა",
+      "ru": "Циклы · Удача · Поворот"
+    },
+    "m": {
+      "en": "The Wheel turns, fortune shifts, seasons change. What felt stuck is moving. Meet the turn with readiness rather than resistance.",
+      "ka": "ბორბალი ტრიალებს, იღბალი იცვლება, სეზონები იცვლება. რაც გაჭედილად იგრძნობოდა, მოძრაობს. შეხვდი შემობრუნებას მზადყოფნით, არა წინააღმდეგობით.",
+      "ru": "Колесо крутится, удача меняется, сезоны сменяются. То, что казалось застоем, движется. Встречай поворот готовностью, а не сопротивлением."
+    }
+  },
+  "star": {
+    "kw": {
+      "en": "Hope · Healing · Guidance",
+      "ka": "იმედი · განკურნება · სახელმძღვანელო",
+      "ru": "Надежда · Исцеление · Ориентир"
+    },
+    "m": {
+      "en": "The Star pours calm after storm. Hope returns as quiet certainty. Trust renewal, you are being guided toward clearer waters.",
+      "ka": "ვარსკვლავი ქარიშხლის შემდეგ სიმშვიდეს ასხამს. იმედი ბრუნდება მშვიდი დარწმუნებულობით. ენდე განახლებას, უფრო ნათელი წყლებისკენ მიგმართავენ.",
+      "ru": "Звезда льёт покой после бури. Надежда возвращается тихой уверенностью. Доверься обновлению, тебя ведут к более ясным водам."
+    }
+  },
+  "moon": {
+    "kw": {
+      "en": "Illusion · Emotion · Dreams",
+      "ka": "ილუზია · ემოცია · სიზმრები",
+      "ru": "Иллюзия · Эмоции · Сны"
+    },
+    "m": {
+      "en": "The Moon softens edges and stirs the subconscious. Not everything is as it seems, wait for daylight before deciding, and honor what feelings surface.",
+      "ka": "მთვარე არბილებს კიდეებს და აღვიძებს ქვეცნობიერს. ყველაფერი არ არის ისეთი, როგორც ჩანს, გადაწყვეტილებამდე დაელოდე დღის სინათლეს და პატივი ეცი იმ გრძნობებს, რომლებიც ამოდის.",
+      "ru": "Луна смягчает края и будит подсознание. Не всё таково, как кажется, дождись дневного света перед решением и уважай всплывающие чувства."
+    }
+  },
+  "sun": {
+    "kw": {
+      "en": "Joy · Clarity · Success",
+      "ka": "სიხარული · სიცხადე · წარმატება",
+      "ru": "Радость · Ясность · Успех"
+    },
+    "m": {
+      "en": "The Sun illuminates without apology. Celebrate wins, share warmth, and step into visibility. Life wants to answer your brightness.",
+      "ka": "მზე უდავოდ ანათებს. იზეიმე წარმატებები, გააზიარე სითბო და გამოდი ხილვადობაში. ცხოვრება შენს სიკაშკაშეს პასუხობს.",
+      "ru": "Солнце светит без извинений. Празднуй победы, дели тепло и выходи на свет. Жизнь отвечает на твою яркость."
+    }
+  },
+  "tower": {
+    "kw": {
+      "en": "Upheaval · Truth · Liberation",
+      "ka": "რყევა · სიმართლე · განთავისუფლება",
+      "ru": "Потрясение · Правда · Освобождение"
+    },
+    "m": {
+      "en": "The Tower clears what was built on false ground. Shocking, yet freeing, after the fall, you rebuild on truth that cannot burn.",
+      "ka": "კოშკი ასუფთავებს იმას, რაც ცრუ საფუძველზე აშენდა. შემაძრწუნებელია, მაგრამ განმათავისუფლებელი, დაცემის შემდეგ თავიდან აშენებ სიმართლეზე, რომელიც ვერ დაიწვება.",
+      "ru": "Башня сносит то, что стояло на ложном основании. Это потрясение, но и свобода, после падения ты строишь на правде, которую не сжечь."
+    }
+  },
+  "world": {
+    "kw": {
+      "en": "Completion · Wholeness · Arrival",
+      "ka": "დასრულება · სისრულე · მოსვლა",
+      "ru": "Завершение · Целостность · Приход"
+    },
+    "m": {
+      "en": "The World closes a long cycle with grace. Integration, recognition, and a sense of belonging arrive. Celebrate the finish, then a new orbit begins.",
+      "ka": "სამყარო გრძელ ციკლს მადლით ხურავს. ინტეგრაცია, აღიარება და კუთვნილების შეგრძნება მოდის. იზეიმე დასასრული, შემდეგ ახალი ორბიტა იწყება.",
+      "ru": "Мир завершает длинный цикл с благодарностью. Приходят интеграция, признание и чувство принадлежности. Отпразднуй финал, затем начинается новая орбита."
+    }
+  }
+}

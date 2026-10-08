@@ -1,0 +1,476 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+ * Mkitxavi, Design System
+ * Deep Obsidian Void, Ethereal Neon Purple, Metallic Gold.
+ * All colors in oklch. Glassmorphism-first.
+ */
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --color-gold: var(--gold);
+  --color-gold-soft: var(--gold-soft);
+  --color-purple: var(--purple);
+  --color-purple-glow: var(--purple-glow);
+  --color-obsidian: var(--obsidian);
+
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif;
+}
+
+:root {
+  --radius: 1.15rem;
+
+  --obsidian: oklch(0.09 0.02 305);
+  --background: oklch(0.09 0.02 305);
+  --foreground: oklch(0.96 0.01 300);
+
+  --card: oklch(0.15 0.03 305);
+  --card-foreground: oklch(0.96 0.01 300);
+  --popover: oklch(0.13 0.03 305);
+  --popover-foreground: oklch(0.96 0.01 300);
+
+  --primary: oklch(0.62 0.22 300);
+  --primary-foreground: oklch(0.98 0.01 300);
+  --secondary: oklch(0.2 0.04 305);
+  --secondary-foreground: oklch(0.95 0.01 300);
+  --muted: oklch(0.18 0.03 305);
+  --muted-foreground: oklch(0.7 0.025 300);
+  --accent: oklch(0.76 0.14 88);
+  --accent-foreground: oklch(0.12 0.02 305);
+  --destructive: oklch(0.6 0.24 20);
+  --destructive-foreground: oklch(0.98 0.01 20);
+
+  --border: oklch(0.3 0.04 305 / 0.4);
+  --input: oklch(0.3 0.04 305 / 0.5);
+  --ring: oklch(0.76 0.14 88);
+
+  --gold: oklch(0.78 0.14 88);
+  --gold-soft: oklch(0.85 0.1 90);
+  --purple: oklch(0.62 0.24 300);
+  --purple-glow: oklch(0.55 0.28 295);
+
+  /* iOS-style ultra-thin material */
+  --glass-bg: oklch(0.18 0.035 305 / 0.58);
+  --glass-border: oklch(1 0 0 / 0.14);
+  --shadow-glow-purple: 0 12px 40px -16px oklch(0.45 0.2 295 / 0.55);
+  --shadow-glow-gold: 0 8px 28px -10px oklch(0.78 0.14 88 / 0.45);
+}
+
+.dark {
+  --background: oklch(0.09 0.02 305);
+  --foreground: oklch(0.95 0.01 300);
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  html {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-text-size-adjust: 100%;
+    height: 100%;
+    scroll-behavior: smooth;
+    overscroll-behavior-y: none;
+    scrollbar-color: oklch(0.78 0.14 88 / 0.3) transparent;
+    scrollbar-width: thin;
+  }
+
+  body {
+    height: 100%;
+    min-height: 100dvh;
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    overflow-x: hidden;
+    letter-spacing: -0.01em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    background-image:
+      radial-gradient(ellipse 100% 60% at 50% -18%, oklch(0.36 0.14 300 / 0.42), transparent 72%),
+      radial-gradient(ellipse 55% 45% at 100% 100%, oklch(0.3 0.09 88 / 0.16), transparent),
+      radial-gradient(ellipse 50% 40% at 0% 85%, oklch(0.3 0.15 300 / 0.22), transparent),
+      radial-gradient(circle at 50% 50%, oklch(0.14 0.03 305 / 0.35), transparent 55%);
+    background-attachment: fixed;
+  }
+
+  #root,
+  #app {
+    height: 100%;
+    min-height: 100dvh;
+  }
+
+  button,
+  a,
+  [role="button"] {
+    -webkit-touch-callout: none;
+    user-select: none;
+    touch-action: manipulation;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  .font-serif {
+    font-family: var(--font-serif);
+    letter-spacing: 0;
+  }
+
+  ::selection {
+    background: oklch(0.78 0.14 88 / 0.28);
+    color: var(--color-foreground);
+  }
+
+  /*
+   * Many controls set outline-none for the custom look, which strands keyboard
+   * users. Restore a visible ring on keyboard focus only.
+   */
+  /* No border-radius here: the outline already follows the element's own. */
+  :focus-visible {
+    outline: 2px solid oklch(0.82 0.15 88 / 0.9);
+    outline-offset: 2px;
+  }
+
+  input:focus-visible,
+  textarea:focus-visible,
+  select:focus-visible {
+    outline-offset: 0;
+  }
+}
+
+/* ---------- Glass surfaces (iOS material) ---------- */
+@utility glass {
+  background: var(--glass-bg);
+  backdrop-filter: blur(40px) saturate(180%);
+  -webkit-backdrop-filter: blur(40px) saturate(180%);
+  border: 1px solid var(--glass-border);
+  box-shadow:
+    0 10px 36px -12px oklch(0 0 0 / 0.55),
+    inset 0 0.5px 0 0 oklch(1 0 0 / 0.22);
+}
+
+@utility glass-purple {
+  background: linear-gradient(165deg, oklch(0.3 0.12 300 / 0.52), oklch(0.14 0.05 305 / 0.72));
+  backdrop-filter: blur(48px) saturate(190%);
+  -webkit-backdrop-filter: blur(48px) saturate(190%);
+  border: 1px solid oklch(1 0 0 / 0.16);
+  box-shadow:
+    var(--shadow-glow-purple),
+    inset 0 0.5px 0 0 oklch(1 0 0 / 0.28);
+}
+
+@utility glass-dark {
+  background: oklch(0.14 0.025 305 / 0.62);
+  backdrop-filter: blur(32px) saturate(170%);
+  -webkit-backdrop-filter: blur(32px) saturate(170%);
+  border: 1px solid oklch(1 0 0 / 0.1);
+  box-shadow:
+    0 6px 20px -8px oklch(0 0 0 / 0.45),
+    inset 0 0.5px 0 0 oklch(1 0 0 / 0.12);
+}
+
+@utility ios-sheet {
+  box-shadow:
+    0 -8px 40px -12px oklch(0 0 0 / 0.45),
+    inset 0 0.5px 0 0 oklch(1 0 0 / 0.25);
+}
+
+@utility ios-row {
+  transition:
+    transform 0.18s cubic-bezier(0.22, 1, 0.36, 1),
+    background 0.18s ease,
+    border-color 0.18s ease;
+}
+
+@utility gold-border {
+  border: 1px solid oklch(0.78 0.14 88 / 0.55);
+  box-shadow: var(--shadow-glow-gold);
+}
+
+@utility text-gold {
+  color: var(--gold);
+}
+
+@utility text-gradient-gold {
+  background: linear-gradient(135deg, oklch(0.88 0.12 92), oklch(0.7 0.15 82));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+@utility glow-gold {
+  box-shadow: var(--shadow-glow-gold);
+}
+
+@utility glow-purple {
+  box-shadow: var(--shadow-glow-purple);
+}
+
+/* ---------- Animations ---------- */
+@keyframes float-slow {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+@keyframes pulse-glow {
+  0%,
+  100% {
+    opacity: 0.6;
+    filter: drop-shadow(0 0 6px oklch(0.78 0.14 88 / 0.6));
+  }
+  50% {
+    opacity: 1;
+    filter: drop-shadow(0 0 16px oklch(0.78 0.14 88 / 0.9));
+  }
+}
+@keyframes twinkle {
+  0%,
+  100% {
+    opacity: 0.15;
+  }
+  50% {
+    opacity: 0.8;
+  }
+}
+@keyframes rise-fade {
+  0% {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes aura-trail {
+  0% {
+    opacity: 0;
+    transform: scale(0.4);
+  }
+  40% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: scale(2.2);
+  }
+}
+
+@keyframes breathe {
+  0%,
+  100% {
+    transform: scale(1);
+    opacity: 0.55;
+  }
+  50% {
+    transform: scale(1.06);
+    opacity: 0.9;
+  }
+}
+@keyframes sheen-sweep {
+  0% {
+    transform: translateX(-120%) skewX(-12deg);
+  }
+  100% {
+    transform: translateX(220%) skewX(-12deg);
+  }
+}
+@keyframes gold-drift {
+  0%,
+  100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+@utility animate-float-slow {
+  animation: float-slow 6s ease-in-out infinite;
+}
+@utility animate-pulse-glow {
+  animation: pulse-glow 3s ease-in-out infinite;
+}
+@utility animate-rise-fade {
+  animation: rise-fade 0.5s ease-out both;
+}
+@utility animate-twinkle {
+  animation: twinkle 4s ease-in-out infinite;
+}
+@utility animate-breathe {
+  animation: breathe 5s ease-in-out infinite;
+}
+@utility animate-aura-trail {
+  animation: aura-trail 1.1s ease-out forwards;
+}
+@utility animate-shimmer {
+  background-size: 200% 100%;
+  animation: shimmer 2.6s linear infinite;
+}
+
+/* Living gold gradient for headline text. */
+@utility text-gradient-gold-live {
+  color: var(--gold);
+  background: linear-gradient(100deg, oklch(0.7 0.15 82), oklch(0.92 0.11 94), oklch(0.7 0.15 82));
+  background-size: 220% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gold-drift 7s ease-in-out infinite;
+}
+
+/* Premium gold-tinted glass, for upsell and highlight surfaces. */
+@utility glass-gold {
+  background: linear-gradient(165deg, oklch(0.42 0.1 90 / 0.3), oklch(0.14 0.04 305 / 0.75));
+  backdrop-filter: blur(44px) saturate(180%);
+  -webkit-backdrop-filter: blur(44px) saturate(180%);
+  border: 1px solid oklch(0.78 0.14 88 / 0.32);
+  box-shadow:
+    var(--shadow-glow-gold),
+    inset 0 0.5px 0 0 oklch(1 0 0 / 0.24);
+}
+
+/* One-pass light sweep across a surface. Pair with overflow-hidden. */
+@utility sheen {
+  position: relative;
+  overflow: hidden;
+}
+@utility sheen-layer {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(90deg, transparent, oklch(1 0 0 / 0.16), transparent);
+  animation: sheen-sweep 2.8s cubic-bezier(0.22, 1, 0.36, 1) infinite;
+  animation-delay: 1.2s;
+}
+
+/* Very fine grain, kills banding on the large radial gradients. */
+@utility grain {
+  position: relative;
+}
+@utility grain-layer {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.035;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='120' height='120' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* Scrollbar — global fallback (muted gold) */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: oklch(0.78 0.12 88 / 0.28);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: oklch(0.82 0.14 88 / 0.48);
+}
+
+/*
+ * Services / nested panels: thin mystic “zipline” — elegant track + gold thumb.
+ * Prefer this class on overflow containers instead of the OS default bar.
+ */
+.mystic-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: oklch(0.8 0.13 88 / 0.5) oklch(0.22 0.05 305 / 0.45);
+  scroll-behavior: smooth;
+}
+.mystic-scroll::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+.mystic-scroll::-webkit-scrollbar-track {
+  background: linear-gradient(
+    180deg,
+    oklch(0.28 0.06 305 / 0.15),
+    oklch(0.18 0.04 305 / 0.4),
+    oklch(0.28 0.06 305 / 0.15)
+  );
+  border-radius: 999px;
+  margin-block: 10px;
+}
+.mystic-scroll::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, oklch(0.88 0.14 88 / 0.55), oklch(0.68 0.11 88 / 0.38));
+  border-radius: 999px;
+  transition:
+    background 0.25s ease,
+    box-shadow 0.25s ease;
+}
+.mystic-scroll::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, oklch(0.92 0.15 88 / 0.78), oklch(0.74 0.12 88 / 0.55));
+  box-shadow: 0 0 10px oklch(0.78 0.14 88 / 0.35);
+}
+.mystic-scroll::-webkit-scrollbar-thumb:active {
+  background: oklch(0.86 0.14 88 / 0.85);
+}
+
+/*
+ * Honour the OS "reduce motion" setting: keep the layout and colour identity,
+ * drop the movement. Also covers Framer Motion, which reads this at runtime.
+ */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

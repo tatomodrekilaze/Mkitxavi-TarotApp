@@ -1,0 +1,54 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+.output
+.vinxi
+.tanstack/**
+.nitro
+*.local
+
+# Wrangler / Cloudflare
+.wrangler/
+.dev.vars
+
+# Environment, never commit real credentials. .env.example is the tracked template.
+.env
+.env.*
+!.env.example
+!.env.oauth.example
+
+# Private exports and local tooling
+private/
+.cursor/
+.lovable/
+*.dump
+*.sql.gz
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+.vercel
+.vercel
+
+# Local-only ad previews (never ship to mkitxavi.com)
+
+.env.oauth
+.pw-oauth-profile/
+

@@ -1,0 +1,1640 @@
+[
+  {
+    "key": "fool",
+    "glyph": "0",
+    "suit": "major",
+    "image": "/tarot/ar00.jpg",
+    "names": {
+      "en": "The Fool",
+      "ka": "სულელი",
+      "ru": "Шут"
+    },
+    "keywords": {
+      "en": "Freedom · Faith · Inexperience · Innocence",
+      "ka": "დასაწყისი · უმანკოება · რწმენის ნახტომი",
+      "ru": "Начала · Невинность · Прыжок веры"
+    },
+    "meanings": {
+      "en": "Watch for new projects and new beginnings. Prepare to take something on faith. In the upright Rider–Waite–Smith sense: Freeing yourself from limitation; Expressing joy and youthful vigor; Being open-minded.",
+      "ka": "სულელი დგას ახალი მოგზაურობის კიდეზე ღია ნდობით. დასაწყისი გთხოვს მსუბუქად იმოგზაურო, მიიღო რისკი და გადადგა პირველი ნაბიჯი, სანამ ყველა პასუხი მოვა.",
+      "ru": "Шут стоит на краю нового пути с открытым доверием. Начало просит идти налегке, принять риск и сделать первый шаг до того, как придут все ответы."
+    }
+  },
+  {
+    "key": "magician",
+    "glyph": "I",
+    "suit": "major",
+    "image": "/tarot/ar01.jpg",
+    "names": {
+      "en": "The Magician",
+      "ka": "ჯადოქარი",
+      "ru": "Маг"
+    },
+    "keywords": {
+      "en": "Capability · Empowerment · Activity",
+      "ka": "ნება · ოსტატობა · გამოვლინება",
+      "ru": "Воля · Мастерство · Проявление"
+    },
+    "meanings": {
+      "en": "A powerful man may play a role in your day. Your current situation must be seen as one element of a much larger plan. In the upright Rider–Waite–Smith sense: Taking appropriate action; Receiving guidance from a higher power; Becoming a channel of divine will.",
+      "ka": "ჯადოქარს მაგიდაზე ყველა მასტის იარაღი აქვს. ფოკუსი განზრახვას ფორმად აქცევს, ისაუბრე მკაფიოდ, იმოქმედე ოსტატურად და დაიწყე; ძალა უკვე შენს ხელშია.",
+      "ru": "У Мага на столе инструменты всех мастей. Фокус превращает намерение в форму, говори ясно, действуй умело и начни; сила уже в твоих руках."
+    }
+  },
+  {
+    "key": "high-priestess",
+    "glyph": "II",
+    "suit": "major",
+    "image": "/tarot/ar02.jpg",
+    "names": {
+      "en": "The High Priestess",
+      "ka": "უმაღლესი ქურუმი",
+      "ru": "Верховная Жрица"
+    },
+    "keywords": {
+      "en": "Intuition · Reflection · Purity · Initiation",
+      "ka": "ინტუიცია · საიდუმლო · შინაგანი ცოდნა",
+      "ru": "Интуиция · Тайна · Внутреннее знание"
+    },
+    "meanings": {
+      "en": "A mysterious woman arrives. A sexual secret may surface. In the upright Rider–Waite–Smith sense: Listening to your feelings and intuitions; Exploring unconventional spirituality; Keeping secrets.",
+      "ka": "უმაღლესი ქურუმი იცავს იმას, რაც ჯერ არ თქმულა. მოუსმინე ხმაურის ქვეშ, სიზმრები, სიჩუმე და შინაგანი გრძნობა პასუხს ინახავს. ნუ აიძულებ გამოცხადებას; ნება მიეცი ფარულს ამოსვლას.",
+      "ru": "Жрица стережёт то, что ещё не сказано. Слушай под шумом, сны, тишина и нутро хранят ответ. Не форсируй откровение; дай скрытому подняться."
+    }
+  },
+  {
+    "key": "empress",
+    "glyph": "III",
+    "suit": "major",
+    "image": "/tarot/ar03.jpg",
+    "names": {
+      "en": "The Empress",
+      "ka": "იმპერატრიცა",
+      "ru": "Императрица"
+    },
+    "keywords": {
+      "en": "Fertility · Productivity · Ripeness · Nurturing",
+      "ka": "სიუხვე · მზრუნველობა · ქმნადობა",
+      "ru": "Изобилие · Забота · Творение"
+    },
+    "meanings": {
+      "en": "Pregnancy is in the cards. An opportunity to be involved in luxurious sexuality is coming. In the upright Rider–Waite–Smith sense: Nurturing yourself and others; Bearing fruit; Celebrating your body.",
+      "ka": "იმპერატრიცა ნაყოფიერი ნიადაგია, სხეული, ხელოვნება და სიყვარული ზრდას ითხოვს. იზრუნე იმაზე, რაც გიყვარს; სილამაზე და გულუხვობა მეტ სიცოცხლეს იწვევს.",
+      "ru": "Императрица, плодородная почва: тело, искусство и любовь хотят расти. Питай то, что любишь; красота и щедрость зовут ещё больше жизни."
+    }
+  },
+  {
+    "key": "emperor",
+    "glyph": "IV",
+    "suit": "major",
+    "image": "/tarot/ar04.jpg",
+    "names": {
+      "en": "The Emperor",
+      "ka": "იმპერატორი",
+      "ru": "Император"
+    },
+    "keywords": {
+      "en": "Authority · Regulation · Direction · Structure",
+      "ka": "სტრუქტურა · ავტორიტეტი · სტაბილურობა",
+      "ru": "Структура · Власть · Стабильность"
+    },
+    "meanings": {
+      "en": "A father figure arrives. A new employer or authority figure will give you orders. In the upright Rider–Waite–Smith sense: Exercising authority; Defining limits; Directing the flow of work.",
+      "ka": "იმპერატორი ქაოსიდან წესრიგს აშენებს. საზღვრები, გეგმები და მტკიცე ლიდერობა იცავს მნიშვნელოვანს. აიღე პასუხისმგებლობა და შექმენი სტრუქტურა, რომელიც გაძლებს.",
+      "ru": "Император строит порядок из хаоса. Границы, планы и твёрдое руководство защищают важное. Прими ответственность и создай структуру, которая выстоит."
+    }
+  },
+  {
+    "key": "hierophant",
+    "glyph": "V",
+    "suit": "major",
+    "image": "/tarot/ar05.jpg",
+    "names": {
+      "en": "The Hierophant",
+      "ka": "იეროფანტი",
+      "ru": "Иерофант"
+    },
+    "keywords": {
+      "en": "Guidance · Knowledge · Revelation · Belief",
+      "ka": "ტრადიცია · სწავლება · წმინდა წესრიგი",
+      "ru": "Традиция · Учение · Священный порядок"
+    },
+    "meanings": {
+      "en": "Expect to be caught in a misdeed and punished accordingly. Pray for forgiveness and confess wrongdoings. In the upright Rider–Waite–Smith sense: Teaching or guiding others; Searching for the truth; Asking for guidance from a higher power.",
+      "ka": "იეროფანტი საერთო სიბრძნეა, მასწავლებლები, აღთქმები და გამოცდილი გზები. ეძებე რჩევა ტრადიციაში ან მენტორთან და პატივი ეცი ღირებულებებს, რომლებიც ცხოვრებას აზრს აძლევს.",
+      "ru": "Иерофант, общая мудрость: учителя, обеты и проверенные пути. Ищи совет в традиции или у наставника и чти ценности, что дают жизни смысл."
+    }
+  },
+  {
+    "key": "lovers",
+    "glyph": "VI",
+    "suit": "major",
+    "image": "/tarot/ar06.jpg",
+    "names": {
+      "en": "The Lovers",
+      "ka": "შეყვარებულები",
+      "ru": "Влюблённые"
+    },
+    "keywords": {
+      "en": "Love · Passion · Unity · Choice",
+      "ka": "კავშირი · არჩევანი · ჰარმონია",
+      "ru": "Союз · Выбор · Созвучие"
+    },
+    "meanings": {
+      "en": "A new personal or professional relationship blossoms. Sexual opportunities abound. In the upright Rider–Waite–Smith sense: Being in love; Showing your love to others; Expressing passion or romantic feelings.",
+      "ka": "შეყვარებულები გულის დონის არჩევანს და ღირებულებების ჰარმონიას აღნიშნავენ. შეუთანხმდი იმას, რაც ნამდვილად გიყვარს, პარტნიორობაში ან საკუთარ თავში, და ნება მიეცი გულწრფელობას კავშირის გაღრმავებას.",
+      "ru": "Влюблённые отмечают выбор сердца и гармонию ценностей. Согласуйся с тем, что любишь по-настоящему, в союзе или в себе, и дай честности углубить связь."
+    }
+  },
+  {
+    "key": "chariot",
+    "glyph": "VII",
+    "suit": "major",
+    "image": "/tarot/ar07.jpg",
+    "names": {
+      "en": "The Chariot",
+      "ka": "ეტლი",
+      "ru": "Колесница"
+    },
+    "keywords": {
+      "en": "Advancement · Victory · Triumph · Success",
+      "ka": "ნებისყოფა · გამარჯვება · მიმართულება",
+      "ru": "Воля · Победа · Направление"
+    },
+    "meanings": {
+      "en": "Victory is a certainty. Move ahead with all plans. In the upright Rider–Waite–Smith sense: Breaking through barriers; Moving forward with confidence and authority; Reaching the pinnacle of success.",
+      "ka": "ეტლი ეუფლება საპირისპირო ძალებს და წინ მიდის. დისციპლინა და მკაფიო მიზანი იგებს გზას, დაიჭირე სადავეები და წინ წადი გადაწყვეტილებით.",
+      "ru": "Колесница подчиняет противоположные силы и мчит вперёд. Дисциплина и ясная цель берут дорогу, держи вожжи и двигайся с решимостью."
+    }
+  },
+  {
+    "key": "strength",
+    "glyph": "VIII",
+    "suit": "major",
+    "image": "/tarot/ar08.jpg",
+    "names": {
+      "en": "Strength",
+      "ka": "ძალა",
+      "ru": "Сила"
+    },
+    "keywords": {
+      "en": "Discipline · Boldness · Self-discipline · Power",
+      "ka": "სიმამაცე · თანაგრძნობა · რბილი ძალა",
+      "ru": "Мужество · Сострадание · Мягкая сила"
+    },
+    "meanings": {
+      "en": "Your self-control will be tested. A woman will seek to change her partner or lover. In the upright Rider–Waite–Smith sense: Imposing restrictions on yourself for your own benefit; Bringing your passions under the control of reason; Resisting impulses that work against your best interests.",
+      "ka": "ძალა ლომს მოთმინებით ამშვიდებს, არა ძალადობით. ნაზი სიმამაცე ეუფლება შიშს და იმპულსს, შეხვდი შენს ველურ ნაწილებს მტკიცე სიყვარულით.",
+      "ru": "Сила укрощает льва терпением, а не насилием. Мягкое мужество владеет страхом и импульсом, встречай дикие части себя устойчивой любовью."
+    }
+  },
+  {
+    "key": "hermit",
+    "glyph": "IX",
+    "suit": "major",
+    "image": "/tarot/ar09.jpg",
+    "names": {
+      "en": "The Hermit",
+      "ka": "განდეგილი",
+      "ru": "Отшельник"
+    },
+    "keywords": {
+      "en": "Solitude · Experience · Stillness · Withdrawal",
+      "ka": "მარტოობა · სიბრძნე · შინაგანი მეგზური",
+      "ru": "Уединение · Мудрость · Внутренний проводник"
+    },
+    "meanings": {
+      "en": "A period of loneliness begins. One partner in a relationship departs. In the upright Rider–Waite–Smith sense: Becoming or seeking out a guru; Going on a retreat; Recharging spiritual or creative batteries.",
+      "ka": "განდეგილი იხევს უკან, რომ შინაგანი ლამპარი გაიგოს. გადი ხმაურიდან, ეძებე რჩევა მარტოობაში და ნება მიეცი მშვიდ სიმართლეს შემდეგი გზის განათებას.",
+      "ru": "Отшельник отступает, чтобы услышать внутренний светильник. Отойди от шума, ищи совет в уединении и дай тихой правде осветить следующий отрезок пути."
+    }
+  },
+  {
+    "key": "wheel",
+    "glyph": "X",
+    "suit": "major",
+    "image": "/tarot/ar10.jpg",
+    "names": {
+      "en": "Wheel of Fortune",
+      "ka": "ბედის ბორბალი",
+      "ru": "Колесо Фортуны"
+    },
+    "keywords": {
+      "en": "Luck · Randomness · Cycles · Karma",
+      "ka": "ციკლები · ბედი · შემობრუნების წერტილი",
+      "ru": "Циклы · Судьба · Поворот"
+    },
+    "meanings": {
+      "en": "Some events are in the hands of heaven. You've lived through this before. In the upright Rider–Waite–Smith sense: Allowing events to unfold; Seeing the larger pattern in everyday events; Trusting your luck.",
+      "ka": "ბორბალი ტრიალებს, იღბალი, სეზონები და გარემოებები იცვლება. რაც უძრავი ჩანდა, მოძრაობს. შეხვდი ცვლილებას მზადყოფნით; ბედი ემხრობა მათ, ვინც ადაპტირდება.",
+      "ru": "Колесо крутится, удача, сезоны и обстоятельства сдвигаются. То, что казалось неподвижным, движется. Встречай перемену готовностью; судьба благосклонна к тем, кто умеет меняться."
+    }
+  },
+  {
+    "key": "justice",
+    "glyph": "XI",
+    "suit": "major",
+    "image": "/tarot/ar11.jpg",
+    "names": {
+      "en": "Justice",
+      "ka": "სამართალი",
+      "ru": "Справедливость"
+    },
+    "keywords": {
+      "en": "Balance · Law · Fairness · Objectivity",
+      "ka": "სიმართლე · ბალანსი · მიზეზი და შედეგი",
+      "ru": "Правда · Баланс · Причина и следствие"
+    },
+    "meanings": {
+      "en": "A legal verdict will be rendered soon. Someone is making a decision. In the upright Rider–Waite–Smith sense: Making an objective decision; Weighing an issue carefully before taking action; Appropriately scaling your reaction to a situation.",
+      "ka": "სამართალი საქმეებს მკაფიო პირითა და სასწორით ზომავს. აღიარე შენი არჩევანის შედეგები, ეძებე სამართლიანობა და ნება მიეცი სიმართლეს, არა უპირატესობას, გადაწყვეტას.",
+      "ru": "Справедливость взвешивает дела ясным клинком и весами. Прими последствия выбора, ищи честность и дай решать правде, а не предпочтению."
+    }
+  },
+  {
+    "key": "hanged-man",
+    "glyph": "XII",
+    "suit": "major",
+    "image": "/tarot/ar12.jpg",
+    "names": {
+      "en": "The Hanged Man",
+      "ka": "ჩამოკიდებული",
+      "ru": "Повешенный"
+    },
+    "keywords": {
+      "en": "Enlightenment · Sacrifice · Perspective · Suspension",
+      "ka": "დანებება · ახალი ხედვა · პაუზა",
+      "ru": "Сдача · Новый взгляд · Пауза"
+    },
+    "meanings": {
+      "en": "A traitor is revealed. One of your friends is working against you. In the upright Rider–Waite–Smith sense: Seeing growth opportunities in unpleasant events; Experiencing a dramatic change in personal perspective; Making the best of an unforeseen change in your life or work.",
+      "ka": "ჩამოკიდებული აჩერებს მოქმედებას სხვანაირად დასანახად. გაუშვი კონტროლი, მიიღე დაყოვნება და ნება მიეცი ძველი ხედვის მსხვერპლს სიბრძნის გამოვლენას.",
+      "ru": "Повешенный останавливает действие, чтобы увидеть иначе. Отпусти контроль, прими задержку и дай жертве старого взгляда открыть мудрость."
+    }
+  },
+  {
+    "key": "death",
+    "glyph": "XIII",
+    "suit": "major",
+    "image": "/tarot/ar13.jpg",
+    "names": {
+      "en": "Death",
+      "ka": "სიკვდილი",
+      "ru": "Смерть"
+    },
+    "keywords": {
+      "en": "Ending · Conclusion · Transition · Passage",
+      "ka": "დასასრული · ტრანსფორმაცია · აღორძინება",
+      "ru": "Окончание · Трансформация · Возрождение"
+    },
+    "meanings": {
+      "en": "A relationship or illness ends suddenly. Limit travel and risk-taking. In the upright Rider–Waite–Smith sense: Bringing an unpleasant phase of life to an end; Recognizing and celebrating the conclusion of something; Putting bad habits to rest.",
+      "ka": "სიკვდილი ასუფთავებს იმას, რაც დასრულდა, რათა ახალი სიცოცხლე შევიდეს. დასასრული, გადასვლა ან კანის ჩამოცვლა, არა უბრალოდ დაღუპება, არამედ აუცილებელი ცვლილება.",
+      "ru": "Смерть убирает то, что завершилось, чтобы вошла новая жизнь. Окончание, переход или сбрас кожи, не просто гибель, а необходимое изменение."
+    }
+  },
+  {
+    "key": "temperance",
+    "glyph": "XIV",
+    "suit": "major",
+    "image": "/tarot/ar14.jpg",
+    "names": {
+      "en": "Temperance",
+      "ka": "ზომიერება",
+      "ru": "Умеренность"
+    },
+    "keywords": {
+      "en": "Blending · Synthesis · Mediation · Combination",
+      "ka": "ბალანსი · ზომიერება · ალქიმია",
+      "ru": "Баланс · Умеренность · Алхимия"
+    },
+    "meanings": {
+      "en": "Someone's using drugs or alcohol to excess. It's time to get back on that diet. In the upright Rider–Waite–Smith sense: Bringing opposites together; Moderating your actions or emotions; Finding middle ground.",
+      "ka": "ზომიერება საპირისპიროებს შერევს სამკურნალო შუალედურ გზაზე. მოთმინება, ზომიერება და ფრთხილი შერევა აღადგენს დინებას, სადაც უკიდურესობა მეფობს.",
+      "ru": "Умеренность смешивает противоположности в целящий средний путь. Терпение, умеренность и аккуратное смешение восстанавливают поток, где раньше правили крайности."
+    }
+  },
+  {
+    "key": "devil",
+    "glyph": "XV",
+    "suit": "major",
+    "image": "/tarot/ar15.jpg",
+    "names": {
+      "en": "The Devil",
+      "ka": "ეშმაკი",
+      "ru": "Дьявол"
+    },
+    "keywords": {
+      "en": "Shadow · Materialism · Bondage · Delusion",
+      "ka": "მონობა · ჩრდილი · ცდუნება",
+      "ru": "Оковы · Тень · Искушение"
+    },
+    "meanings": {
+      "en": "Adultery and unfaithfulness. A string of extremely bad luck is coming your way. In the upright Rider–Waite–Smith sense: Appreciating the luxuries that life has to offer; Being comfortable in your own skin; Enjoying your sexuality.",
+      "ka": "ეშმაკი ასახელებს ჯაჭვს, რომელიც ჯერ კიდევ შეგიძლია მოიხსნა, დამოკიდებულებას, შიშს ან მატერიალურ ობსესიას. ნახე ჩრდილი მკაფიოდ; განთავისუფლება იწყება გულწრფელი დასახელებით.",
+      "ru": "Дьявол называет цепь, которую ещё можно снять, зависимость, страх или материальную одержимость. Увидь тень ясно; освобождение начинается с честного названия."
+    }
+  },
+  {
+    "key": "tower",
+    "glyph": "XVI",
+    "suit": "major",
+    "image": "/tarot/ar16.jpg",
+    "names": {
+      "en": "The Tower",
+      "ka": "კოშკი",
+      "ru": "Башня"
+    },
+    "keywords": {
+      "en": "Demolition · Upheaval · Deconstruction · Disaster",
+      "ka": "რყევა · გამოცხადება · გარღვევა",
+      "ru": "Потрясение · Откровение · Прорыв"
+    },
+    "meanings": {
+      "en": "Impending disaster. Cancel plans and reverse decisions. In the upright Rider–Waite–Smith sense: Breaking out of old, confining habits and mindsets; Clearing the way for new growth; Dispelling the influence of an inflated ego.",
+      "ka": "კოშკი ცრუ სტრუქტურებს უცებ სიმართლით ანგრევს. შემაძრწუნებელი ცვლილება ასუფთავებს ღრუ საფუძვლებს, რათა აშენო იმაზე, რაც ვერ იწვება.",
+      "ru": "Башня ударяет ложные структуры внезапной правдой. Шокирующее изменение очищает гнилые основания, чтобы ты мог перестроить на том, что не сгорит."
+    }
+  },
+  {
+    "key": "star",
+    "glyph": "XVII",
+    "suit": "major",
+    "image": "/tarot/ar17.jpg",
+    "names": {
+      "en": "The Star",
+      "ka": "ვარსკვლავი",
+      "ru": "Звезда"
+    },
+    "keywords": {
+      "en": "Hope · Optimism · Openness · Certainty",
+      "ka": "იმედი · განკურნება · სახელმძღვანელო",
+      "ru": "Надежда · Исцеление · Ориентир"
+    },
+    "meanings": {
+      "en": "Get an astrology chart drawn up. Someone is a little too starstruck. In the upright Rider–Waite–Smith sense: Hoping for the best; Believing good things happen to good people; Seeing events in the best possible light.",
+      "ka": "ვარსკვლავი ქარიშხლის შემდეგ სიმშვიდეს ასხამს. იმედი ბრუნდება მშვიდი რწმენით, განიკურნე, ენდე განახლებას და მიყევი ნაზ სინათლეს უფრო ნათელი წყლებისკენ.",
+      "ru": "Звезда льёт спокой после бури. Надежда возвращается как тихая вера, исцеляй, доверяйся обновлению и следуй мягкому свету к более ясным водам."
+    }
+  },
+  {
+    "key": "moon",
+    "glyph": "XVIII",
+    "suit": "major",
+    "image": "/tarot/ar18.jpg",
+    "names": {
+      "en": "The Moon",
+      "ka": "მთვარე",
+      "ru": "Луна"
+    },
+    "keywords": {
+      "en": "Mystery · Fantasy · Imagination · Dreams",
+      "ka": "ილუზია · ქვეცნობიერი · გაურკვევლობა",
+      "ru": "Иллюзия · Подсознание · Неуверенность"
+    },
+    "meanings": {
+      "en": "Watch for problems at the end of the month. Someone you know needs to howl at the moon more often. In the upright Rider–Waite–Smith sense: Enjoying healthy fantasies and daydreams; Using your imagination; Practicing magic or celebrating the magic of everyday life.",
+      "ka": "მთვარე არბილებს კიდეებს და აღვიძებს სიზმრებსა და შიშებს. ყველაფერი არ არის ისე, როგორც ჩანს, გადაწყვეტილებამდე დაელოდე უფრო ნათელ სინათლეს და პატივი ეცი გრძნობებს, რომლებიც ამოდის.",
+      "ru": "Луна смягчает грани и будит сны и страхи. Не всё таково, как кажется, дождись более ясного света перед решением и уважай чувства, которые всплывают."
+    }
+  },
+  {
+    "key": "sun",
+    "glyph": "XIX",
+    "suit": "major",
+    "image": "/tarot/ar19.jpg",
+    "names": {
+      "en": "The Sun",
+      "ka": "მზე",
+      "ru": "Солнце"
+    },
+    "keywords": {
+      "en": "Joy · Brilliance · Validation · Attention",
+      "ka": "სიხარული · სიცხადე · წარმატება",
+      "ru": "Радость · Ясность · Успех"
+    },
+    "meanings": {
+      "en": "Everything's coming up roses (or sunflowers, whatever the case may be). Whatever's on your mind, go for it because you can't lose today. In the upright Rider–Waite–Smith sense: Seeing things clearly; Experiencing intense joy; Celebrating your own successes.",
+      "ka": "მზე ანათებს უდავოდ, სიცოცხლე, სიმართლე და მარტივი ბედნიერება. იზეიმე წარმატება, გააზიარე სითბო და სრულად შედი სინათლეში.",
+      "ru": "Солнце светит без извинений, жизненная сила, правда и простое счастье. Празднуй успех, делись теплом и войди полностью в свет."
+    }
+  },
+  {
+    "key": "judgement",
+    "glyph": "XX",
+    "suit": "major",
+    "image": "/tarot/ar20.jpg",
+    "names": {
+      "en": "Judgement",
+      "ka": "განკითხვა",
+      "ru": "Суд"
+    },
+    "keywords": {
+      "en": "Revival · Renewal · Resurrection · Evaluation",
+      "ka": "გაღვიძება · ანგარიში · მოწოდება",
+      "ru": "Пробуждение · Отчёт · Призыв"
+    },
+    "meanings": {
+      "en": "An old issue you thought was over will come up again today. Get ready for huge changes: break-ups, sudden calls from old friends, and unexpected setbacks. In the upright Rider–Waite–Smith sense: Receiving a wake-up call; Discovering a new purpose in life; Becoming totally and completely yourself.",
+      "ka": "განკითხვა გამოსცემს მოწოდებას, განახლებულად აღდგე. გადახედე წარსულს გულწრფელობით, უპასუხე უფრო მაღალ მიზანს და შედი აღორძინებაში ძველი ტვირთის გარეშე.",
+      "ru": "Суд зовёт восстать обновлённым. Обозри прошлое с честностью, ответь на высшее предназначение и войди в возрождение без старой тяжести."
+    }
+  },
+  {
+    "key": "world",
+    "glyph": "XXI",
+    "suit": "major",
+    "image": "/tarot/ar21.jpg",
+    "names": {
+      "en": "The World",
+      "ka": "სამყარო",
+      "ru": "Мир"
+    },
+    "keywords": {
+      "en": "Wholeness · Integration · Totality · Completeness",
+      "ka": "დასრულება · სისრულე · ინტეგრაცია",
+      "ru": "Завершение · Целостность · Интеграция"
+    },
+    "meanings": {
+      "en": "Winning the lottery. Getting your heart's desire. In the upright Rider–Waite–Smith sense: Having it all; Knowing and loving yourself as completely as possible; Seeing the interconnection of all things and people.",
+      "ka": "სამყარო სულელის მოგზაურობას ხურავს შესრულებით. ციკლი სრულდება, იზეიმე მისვლა, ინტეგრაცია და კუთვნილება, რომელიც ოსტატობასთან მოდის.",
+      "ru": "Мир завершает путь Шута исполнением. Цикл завершается, отпразднуй приход, интеграцию и принадлежность, которые приходят с мастерством."
+    }
+  },
+  {
+    "key": "ace-wands",
+    "glyph": "A",
+    "suit": "wands",
+    "image": "/tarot/waac.jpg",
+    "names": {
+      "en": "Ace of Wands",
+      "ka": "კვერთხების ტუზი",
+      "ru": "Туз Жезлов"
+    },
+    "keywords": {
+      "en": "Desire · Inspiration · Vision · Creation",
+      "ka": "შთაგონება · ნაპერწკალი · ახალი სწრაფვა",
+      "ru": "Вдохновение · Искра · Новый порыв"
+    },
+    "meanings": {
+      "en": "Someone has the \"hots\" for you. A new job offer is coming your way. In the upright Rider–Waite–Smith sense: Being inspired; Identifying an important goal; Being given the opportunity to do whatever you want to do.",
+      "ka": "კვერთხების ტუზი შემოქმედებითი ცეცხლის პირველი ნაპერწკალია. ახალი საქმე, ვნება ან მოწოდება ანთებას ითხოვს, დაიჭირე შანსი, სანამ ალი ახალგაზრდაა.",
+      "ru": "Туз Жезлов, первая искра творческого огня. Новое дело, страсть или призвание хотят воспламенения, хватай шанс, пока пламя молодо."
+    }
+  },
+  {
+    "key": "two-wands",
+    "glyph": "2",
+    "suit": "wands",
+    "image": "/tarot/wa02.jpg",
+    "names": {
+      "en": "Two of Wands",
+      "ka": "კვერთხების ორი",
+      "ru": "Двойка Жезлов"
+    },
+    "keywords": {
+      "en": "Conflict · Decision · Option · Individuality",
+      "ka": "დაგეგმვა · მომავლის ხედვა · გზის არჩევანი",
+      "ru": "План · Видение будущего · Выбор пути"
+    },
+    "meanings": {
+      "en": "Beware false friends. Don't be mealy-mouthed; say what you think and do what you want to do. In the upright Rider–Waite–Smith sense: Having a choice; Offering or being offered an option; Seeing the value of another person's approach.",
+      "ka": "კვერთხების ორი საზღვრავს ჰორიზონტს გლობუსით ხელში. ადრეული ძალა უკვე შენია, დაგეგმე შემდეგი ნაბიჯი და აირჩიე, რომელ სამყაროს მოითხოვ.",
+      "ru": "Двойка Жезлов обзоривает горизонт с глобусом в руке. Ранняя сила уже у тебя, спланируй следующий шаг и выбери, какой мир ты заявишь."
+    }
+  },
+  {
+    "key": "three-wands",
+    "glyph": "3",
+    "suit": "wands",
+    "image": "/tarot/wa03.jpg",
+    "names": {
+      "en": "Three of Wands",
+      "ka": "კვერთხების სამი",
+      "ru": "Тройка Жезлов"
+    },
+    "keywords": {
+      "en": "Implementation · Action · Exploration",
+      "ka": "გაფართოება · შორსმჭვრეტელობა · საწარმო",
+      "ru": "Расширение · Дальновидение · Предприятие"
+    },
+    "meanings": {
+      "en": "You'll be planning a trip soon. Be on the lookout: your ship is coming in. In the upright Rider–Waite–Smith sense: Putting a plan into motion; Taking that critical first step; Making good things happen.",
+      "ka": "კვერთხების სამი უყურებს, როგორ ტოვებენ საქმეები ნაპირს. პროგრესი მიმდინარეობს, ითანამშრომლე, უფრო შორს შეხედე და დაელოდე შედეგებს, რომლებიც შენმა სიმამაცემ გაუშვა.",
+      "ru": "Тройка Жезлов смотрит, как предприятия отходят от берега. Прогресс уже идёт, сотрудничай, смотри дальше и жди результатов, которые задала твоя ранняя смелость."
+    }
+  },
+  {
+    "key": "four-wands",
+    "glyph": "4",
+    "suit": "wands",
+    "image": "/tarot/wa04.jpg",
+    "names": {
+      "en": "Four of Wands",
+      "ka": "კვერთხების ოთხი",
+      "ru": "Четвёрка Жезлов"
+    },
+    "keywords": {
+      "en": "Celebration · Jubilation · Community · Teamwork",
+      "ka": "ზეიმი · ჰარმონია · სახლში დაბრუნება",
+      "ru": "Праздник · Гармония · Возвращение домой"
+    },
+    "meanings": {
+      "en": "Someone is watching and evaluating your work. You may get a wedding invitation soon. In the upright Rider–Waite–Smith sense: Sharing in a great celebration; Sharing in a communal sense of achievement and success; Preparing for a party.",
+      "ka": "კვერთხების ოთხი სასიხარულო ზღვარია, რიტუალები, შეხვედრა და მტკიცე ბედნიერება. შეჩერდი თემის ზეიმისთვის და საფარისთვის, რომელიც ააშენე.",
+      "ru": "Четвёрка Жезлов, радостный порог: обряды, встреча и устойчивое счастье. Остановись, чтобы отпраздновать общность и убежище, которое ты построил."
+    }
+  },
+  {
+    "key": "five-wands",
+    "glyph": "5",
+    "suit": "wands",
+    "image": "/tarot/wa05.jpg",
+    "names": {
+      "en": "Five of Wands",
+      "ka": "კვერთხების ხუთი",
+      "ru": "Пятёрка Жезлов"
+    },
+    "keywords": {
+      "en": "Confrontation · Disruption · Distinction · Objection",
+      "ka": "კონფლიქტი · კონკურენცია · ბრძოლა",
+      "ru": "Конфликт · Соперничество · Борьба"
+    },
+    "meanings": {
+      "en": "Prepare for a fight with your best friend. Remember: once you let words loose, you can't take them back. In the upright Rider–Waite–Smith sense: Calmly expressing a dissenting opinion; Allowing someone to use his or her own methods to get a job done; Opening the floor for discussion or debate.",
+      "ka": "კვერთხების ხუთი ხმაურიანი შეჯიბრია, ეგოები და იდეები ეჯახება. მიმართე მეტოქეობა გულწრფელ შერკინებაში; ზრდა მოდის, როცა სიცხე მიმართულია, არა უარყოფილი.",
+      "ru": "Пятёрка Жезлов, шумное состязание: эго и идеи сталкиваются. Направь соперничество в честную тренировку; рост приходит, когда жар направлен, а не отрицается."
+    }
+  },
+  {
+    "key": "six-wands",
+    "glyph": "6",
+    "suit": "wands",
+    "image": "/tarot/wa06.jpg",
+    "names": {
+      "en": "Six of Wands",
+      "ka": "კვერთხების ექვსი",
+      "ru": "Шестёрка Жезлов"
+    },
+    "keywords": {
+      "en": "Victory · Achievement · Success · Triumph",
+      "ka": "გამარჯვება · აღიარება · პროგრესი",
+      "ru": "Победа · Признание · Прогресс"
+    },
+    "meanings": {
+      "en": "Someone is planning a party for you, but not everyone feels so good about your recent success. Watch out for envious friends. In the upright Rider–Waite–Smith sense: Outperforming your peers; Winning a competition; Being recognized as a capable person.",
+      "ka": "კვერთხების ექვსი შინ ბრუნდება გვირგვინით. საჯარო წარმატება და ძნელად მოპოვებული ქება მოდის, მიიღე აღიარება და ნება მიეცი რწმენას, უხელმძღვანელოს შემდეგ ლაშქრობას.",
+      "ru": "Шестёрка Жезлов едет домой увенчанный. Публичный успех и заслуженная похвала приходят, прими признание и пусть уверенность ведёт следующую кампанию."
+    }
+  },
+  {
+    "key": "seven-wands",
+    "glyph": "7",
+    "suit": "wands",
+    "image": "/tarot/wa07.jpg",
+    "names": {
+      "en": "Seven of Wands",
+      "ka": "კვერთხების შვიდი",
+      "ru": "Семёрка Жезлов"
+    },
+    "keywords": {
+      "en": "Bravery · Resolve · Determination",
+      "ka": "დაცვა · სიძლიერე · სიმამაცე",
+      "ru": "Защита · Настойчивость · Мужество"
+    },
+    "meanings": {
+      "en": "Don't be surprised by a personal attack. Prepare to defend yourself or someone you love. In the upright Rider–Waite–Smith sense: Refusing to be silenced through fear or intimidation; Continuing a fight against all odds; Being fierce.",
+      "ka": "კვერთხების შვიდი იკავებს მაღალ პოზიციას გამოწვევის წინაშე. დაიცავე შენი პოზიცია სიმამაცით; ერთი მრავალის წინააღმდეგ მაინც იმარჯვებს რწმენით.",
+      "ru": "Семёрка Жезлов держит высоту против вызова. Защищай свою позицию с мужеством; один против многих всё равно побеждает убеждением."
+    }
+  },
+  {
+    "key": "eight-wands",
+    "glyph": "8",
+    "suit": "wands",
+    "image": "/tarot/wa08.jpg",
+    "names": {
+      "en": "Eight of Wands",
+      "ka": "კვერთხების რვა",
+      "ru": "Восьмёрка Жезлов"
+    },
+    "keywords": {
+      "en": "Speed · Swiftness · Responsiveness · Change",
+      "ka": "სისწრაფე · ამბები · სწრაფი მოქმედება",
+      "ru": "Скорость · Новости · Быстрое действие"
+    },
+    "meanings": {
+      "en": "Watch for a surprising letter in the mail. Your whole world is about to be turned on its ear. In the upright Rider–Waite–Smith sense: Taking swift action; Moving forward with a plan as quickly as possible; Energizing yourself.",
+      "ka": "კვერთხების რვა ისრებივით დაფრინავს, მოვლენები ჩქარდება. შეტყობინებები, მგზავრობა ან სწრაფი პროგრესი მოდის; იმოძრავე დინებასთან, არა წინააღმდეგ.",
+      "ru": "Восьмёрка Жезлов летит как стрелы, события ускоряются. Приходят сообщения, поездки или быстрый прогресс; двигайся с течением, а не против него."
+    }
+  },
+  {
+    "key": "nine-wands",
+    "glyph": "9",
+    "suit": "wands",
+    "image": "/tarot/wa09.jpg",
+    "names": {
+      "en": "Nine of Wands",
+      "ka": "კვერთხების ცხრა",
+      "ru": "Девятка Жезлов"
+    },
+    "keywords": {
+      "en": "Toughness · Persistence · Stamina · Loyalty",
+      "ka": "სიძლიერე · ბოლო ბრძოლა · საზღვრები",
+      "ru": "Живучесть · Последний рубеж · Границы"
+    },
+    "meanings": {
+      "en": "Don't relax yet; there's more to come. The test you're facing now is happening for one reason: to show you who your real friends are. In the upright Rider–Waite–Smith sense: Sticking with it for the duration; Fulfilling your promises and obligations; Bearing up under incredible duress.",
+      "ka": "კვერთხების ცხრა დაჭრილია, მაგრამ ურყევი. დაიცავე აშენებული; დასვენება ახლოსაა, მაგრამ სიფხიზლე ჯერ მნიშვნელოვანია, სანამ გამოცდა არ დასრულდება.",
+      "ru": "Девятка Жезлов стоит раненный, но несломленный. Охраняй то, что построил; отдых близок, но бдительность ещё важна, пока испытание не кончилось."
+    }
+  },
+  {
+    "key": "ten-wands",
+    "glyph": "10",
+    "suit": "wands",
+    "image": "/tarot/wa10.jpg",
+    "names": {
+      "en": "Ten of Wands",
+      "ka": "კვერთხების ათი",
+      "ru": "Десятка Жезлов"
+    },
+    "keywords": {
+      "en": "Exhaustion · Resistance · Burden · Oppression",
+      "ka": "ტვირთი · პასუხისმგებლობა · გადატვირთვა",
+      "ru": "Бремя · Ответственность · Перегрузка"
+    },
+    "meanings": {
+      "en": "You're worn out. Back off, take a time out, and let someone else handle things for a while. In the upright Rider–Waite–Smith sense: Holding your own in extreme circumstances; Helping others carry their burdens; Coming to the aid of the oppressed.",
+      "ka": "კვერთხების ათი ერთდროულად ზედმეტ მოვალეობას ატარებს. წარმატებას წონა აქვს, გაანაწილე მოვალეობა, დადე ის, რაც შენი არ არის, და ბრძნად დაასრულე ბოლო მონაკვეთი.",
+      "ru": "Десятка Жезлов несёт слишком много обязанностей сразу. У успеха есть вес, делегируй, отложи чужое и мудро заверши последний отрезок."
+    }
+  },
+  {
+    "key": "page-wands",
+    "glyph": "P",
+    "suit": "wands",
+    "image": "/tarot/wapa.jpg",
+    "names": {
+      "en": "Page of Wands",
+      "ka": "კვერთხების გვერდი",
+      "ru": "Паж Жезлов"
+    },
+    "keywords": {
+      "en": "Enthusiasm · Eagerness · Confidence · Validation",
+      "ka": "ენთუზიაზმი · მაცნე · თავისუფალი სული",
+      "ru": "Энтузиазм · Вестник · Свободный дух"
+    },
+    "meanings": {
+      "en": "This card represents a young man or woman with a fiery, enthusiastic demeanor, likely born a Cancer, Leo, or Virgo, who wants to start a new relationship with you. In the upright Rider–Waite–Smith sense: Leaping at a new opportunity; Being a cheerleader or ardent advocate for your cause; Being a True Believer.",
+      "ka": "კვერთხების გვერდს მოაქვს სათამაშო ცეცხლი და თავგადასავლის ამბები. დარჩე ცნობისმოყვარე, დაიწყე გამბედავად და ნება მიეცი ენთუზიაზმს, გახსნას კარი.",
+      "ru": "Паж Жезлов приносит игривый огонь и новости о приключениях. Оставайся любопытным, начинай смело и пусть энтузиазм откроет дверь."
+    }
+  },
+  {
+    "key": "knight-wands",
+    "glyph": "Kn",
+    "suit": "wands",
+    "image": "/tarot/wakn.jpg",
+    "names": {
+      "en": "Knight of Wands",
+      "ka": "კვერთხების რაინდი",
+      "ru": "Рыцарь Жезлов"
+    },
+    "keywords": {
+      "en": "Boldness · Bravado · Passion · Persuasion",
+      "ka": "მოქმედება · ვნება · დევნა",
+      "ru": "Действие · Страсть · Преследование"
+    },
+    "meanings": {
+      "en": "This card represents a man with a bold, passionate personality, likely born between July 12th and August 11th, who wants to sweep you off your feet. In the upright Rider–Waite–Smith sense: Charging ahead; Making rapid progress; Refusing limits.",
+      "ka": "კვერთხების რაინდი მიიწევს ვნებიანი სწრაფვით. თავგადასავალი და გამბედავი ნაბიჯები გიძახებს, იმოქმედე, მაგრამ უფრთხილდი, ცეცხლმა რუკა არ დაწვას.",
+      "ru": "Рыцарь Жезлов набрасывается с пылкой страстью. Зовут приключение и смелые шаги, действуй, но смотри, чтобы огонь не сжёг карту."
+    }
+  },
+  {
+    "key": "queen-wands",
+    "glyph": "Q",
+    "suit": "wands",
+    "image": "/tarot/waqu.jpg",
+    "names": {
+      "en": "Queen of Wands",
+      "ka": "კვერთხების დედოფალი",
+      "ru": "Королева Жезлов"
+    },
+    "keywords": {
+      "en": "Attention · Attraction · Unification · Collaboration",
+      "ka": "რწმენა · სითბო · მიმზიდველი ნება",
+      "ru": "Уверенность · Тепло · Магнетичная воля"
+    },
+    "meanings": {
+      "en": "This card represents a woman with an attractive, appealing personality, likely born between March 11th and April 20th, who wants to charm you into doing things her way. In the upright Rider–Waite–Smith sense: Paying close attention; Helping others focus on the issue at hand; Getting everyone to work together.",
+      "ka": "კვერთხების დედოფალი მეფობს მზისეური რწმენით და შემოქმედებითი სიცხით. უხელმძღვანელე სითბოთი, ენდე შენს ყოფნას და შთააგონე სხვები სრულად შენი ყოფნით.",
+      "ru": "Королева Жезлов правит солнечной уверенностью и творческим жаром. Веди тепло, доверяйся своему присутствию и вдохновляй других, будучи собой."
+    }
+  },
+  {
+    "key": "king-wands",
+    "glyph": "K",
+    "suit": "wands",
+    "image": "/tarot/waki.jpg",
+    "names": {
+      "en": "King of Wands",
+      "ka": "კვერთხების მეფე",
+      "ru": "Король Жезлов"
+    },
+    "keywords": {
+      "en": "Creativity · Ingenuity · Achievement · Direction",
+      "ka": "ხედვა · ლიდერობა · გამბედავი საწარმო",
+      "ru": "Видение · Лидерство · Смелое дело"
+    },
+    "meanings": {
+      "en": "This card represents an older man with a commanding, charismatic personality, likely born between November 13th and December 12th, who prefers to give directions and have them followed. In the upright Rider–Waite–Smith sense: Putting old things together in new and exciting ways; Coming up with unexpected solutions; Using your experience to solve puzzles and problems.",
+      "ka": "კვერთხების მეფე უხელმძღვანელობს ხედვის ცეცხლით. მიმართე საწარმო სიმამაცით და ქარიზმით, შთააგონე მოქმედება, მაგრამ ეგოს ტირანად არ იქცე.",
+      "ru": "Король Жезлов ведёт огнём видения. Направляй дело с мужеством и харизмой, вдохновляй на действие, не становясь тираном эго."
+    }
+  },
+  {
+    "key": "ace-cups",
+    "glyph": "A",
+    "suit": "cups",
+    "image": "/tarot/cuac.jpg",
+    "names": {
+      "en": "Ace of Cups",
+      "ka": "თასების ტუზი",
+      "ru": "Туз Кубков"
+    },
+    "keywords": {
+      "en": "Intuition · Spirituality · Affection · Motivation",
+      "ka": "ახალი სიყვარული · ემოციური გახსნა · გულის საჩუქარი",
+      "ru": "Новая любовь · Эмоциональное открытие · Дар сердца"
+    },
+    "meanings": {
+      "en": "Romance is in the cards. A new relationship or marriage is just around the corner. In the upright Rider–Waite–Smith sense: Trusting your feelings; Opening yourself to spirit; Accepting and returning affection.",
+      "ka": "თასების ტუზი ივსება ემოციური განახლებით. სიყვარული, თანაგრძნობა ან ინტუიციური კურთხევა მოდის, გახსენი გული და მიიღე ის, რაც ჩამოსვლას ცდილობს.",
+      "ru": "Туз Кубков переполнен эмоциональным обновлением. Любовь, сострадание или интуитивное благословение приходит, открой сердце и прими то, что хочет влиться."
+    }
+  },
+  {
+    "key": "two-cups",
+    "glyph": "2",
+    "suit": "cups",
+    "image": "/tarot/cu02.jpg",
+    "names": {
+      "en": "Two of Cups",
+      "ka": "თასების ორი",
+      "ru": "Двойка Кубков"
+    },
+    "keywords": {
+      "en": "Union · Attraction · Combination · Affection",
+      "ka": "პარტნიორობა · ურთიერთლტოლვა · კავშირი",
+      "ru": "Партнёрство · Взаимное тяготение · Связь"
+    },
+    "meanings": {
+      "en": "Someone has a secret crush on you. Relationships should be mutual; get rid of a leech. In the upright Rider–Waite–Smith sense: Being drawn to someone; Longing for someone or something; Acting on your desires.",
+      "ka": "თასების ორი ტოსტია ტოლთა შორის, სიყვარული, მეგობრობა ან ალიანსი. გულწრფელი კავშირი ეძებს ბალანსს და საერთო პატივისცემას.",
+      "ru": "Двойка Кубков, тост между равными: любовь, дружба или союз. Душевная связь ищет баланса и общего уважения."
+    }
+  },
+  {
+    "key": "three-cups",
+    "glyph": "3",
+    "suit": "cups",
+    "image": "/tarot/cu03.jpg",
+    "names": {
+      "en": "Three of Cups",
+      "ka": "თასების სამი",
+      "ru": "Тройка Кубков"
+    },
+    "keywords": {
+      "en": "Celebration · Expression · Community · Friendliness",
+      "ka": "მეგობრობა · ზეიმი · თემი",
+      "ru": "Дружба · Праздник · Сообщество"
+    },
+    "meanings": {
+      "en": "Unconventional romance is coming your way: a love affair with someone you've always dismissed. In the upright Rider–Waite–Smith sense: Celebrating your feelings or connections with others; Expressing joy through song, dance, or physical affection; Working together with others who share your feelings.",
+      "ka": "თასების სამი სიხარულს აწევს კომპანიაში. მეგობრობა, შეხვედრა და საერთო სიხარული კურნავს სულს, იზეიმე კუთვნილება.",
+      "ru": "Тройка Кубков поднимает радость в компании. Дружба, встреча и общая радость целят дух, отпразднуй принадлежность."
+    }
+  },
+  {
+    "key": "four-cups",
+    "glyph": "4",
+    "suit": "cups",
+    "image": "/tarot/cu04.jpg",
+    "names": {
+      "en": "Four of Cups",
+      "ka": "თასების ოთხი",
+      "ru": "Четвёрка Кубков"
+    },
+    "keywords": {
+      "en": "Boredom · Listlessness · Lethargy · Stability",
+      "ka": "აპათია · ფიქრი · გამოტოვებული შეთავაზება",
+      "ru": "Апатия · Размышление · Упущенное предложение"
+    },
+    "meanings": {
+      "en": "A lover is getting restless. Find out what he or she needs, or new opportunities may lure your partner away. In the upright Rider–Waite–Smith sense: Maintaining your emotional stability; Refusing to give in to overwhelming emotions; Appreciating what you have and refusing to take it for granted.",
+      "ka": "თასების ოთხი განზე ჯდება, როცა ახალი თასი კვლავ შეთავაზებულია. უკმაყოფილობა აბრმავებს, შენიშნე საჩუქარი, რომელიც იდაყვთან გელოდება.",
+      "ru": "Четвёрка Кубков сидит в стороне, пока новая чаша предлагается. Неудовольство слепит, заметь дар, который ждёт у локтя."
+    }
+  },
+  {
+    "key": "five-cups",
+    "glyph": "5",
+    "suit": "cups",
+    "image": "/tarot/cu05.jpg",
+    "names": {
+      "en": "Five of Cups",
+      "ka": "თასების ხუთი",
+      "ru": "Пятёрка Кубков"
+    },
+    "keywords": {
+      "en": "Loss · Despair · Re-evaluation · Regret",
+      "ka": "დაკარგვა · მწუხარება · რაც რჩება",
+      "ru": "Утрата · Горе · То, что осталось"
+    },
+    "meanings": {
+      "en": "A breakup looms. Don't cry over spilt milk. In the upright Rider–Waite–Smith sense: Acknowledging loss and moving on; Focusing on how the glass remains \"half-full\"; Finding the silver lining in a dark cloud.",
+      "ka": "თასების ხუთი დაღვრილ ღვინოს დასტირის, მაგრამ ორი თასი ჯერ დგას. პატივი ეცი სევდას, შემდეგ მიბრუნდი იმისკენ, რაც ჯერ შეიძლება სიყვარულით შემოინახო.",
+      "ru": "Пятёрка Кубков оплакивает разлитое вино, но две чаши ещё стоят. Почти печаль, затем обернись к тому, что ещё можно беречь."
+    }
+  },
+  {
+    "key": "six-cups",
+    "glyph": "6",
+    "suit": "cups",
+    "image": "/tarot/cu06.jpg",
+    "names": {
+      "en": "Six of Cups",
+      "ka": "თასების ექვსი",
+      "ru": "Шестёрка Кубков"
+    },
+    "keywords": {
+      "en": "Charity · Sharing · Sacrifice · Cooperation",
+      "ka": "ნოსტალგია · უმანკოება · კეთილი მოგონება",
+      "ru": "Ностальгия · Невинность · Добрая память"
+    },
+    "meanings": {
+      "en": "A stingy spirit is strangling your enjoyment of life. Loosen up and think of others for once, why don't you? In the upright Rider–Waite–Smith sense: Donating your time and talents to others; Taking satisfaction in knowing how your efforts will aid others; Creating a \"win-win\" scenario.",
+      "ka": "თასების ექვსი აბრუნებს ბავშვის სიტკბოსა და მარტივ სიკეთეს. დაბრუნდი წარსულში ნუგეშისთვის, ან შესთავაზე ნაზი ზრუნვა, როგორც ოდესღაც მიიღე.",
+      "ru": "Шестёрка Кубков возвращает детскую сладость и простую доброту. Вернись к прошлому за утешением, или отдай мягкую заботу, как когда-то получал."
+    }
+  },
+  {
+    "key": "seven-cups",
+    "glyph": "7",
+    "suit": "cups",
+    "image": "/tarot/cu07.jpg",
+    "names": {
+      "en": "Seven of Cups",
+      "ka": "თასების შვიდი",
+      "ru": "Семёрка Кубков"
+    },
+    "keywords": {
+      "en": "Imagination · Dreams · Illusions · Goals",
+      "ka": "არჩევანები · ფანტაზია · ილუზია",
+      "ru": "Выборы · Фантазия · Иллюзия"
+    },
+    "meanings": {
+      "en": "You're being fed a line. Rather than be dazzled by fancy words and promises, demand something real. In the upright Rider–Waite–Smith sense: Motivating yourself with images of future success; Using visualization to encourage progress; Taking an imaginative or creative approach to problem solving.",
+      "ka": "თასების შვიდი ბევრ ხედვას თავაზობს, ყველა რეალური არ არის. გაარჩიე სურვილი მირაჟისგან, სანამ გულს ან რესურსებს დაანდობ.",
+      "ru": "Семёрка Кубков предлагает много видений, не все реальны. Отличи желание от миража, прежде чем отдать сердце или ресурсы."
+    }
+  },
+  {
+    "key": "eight-cups",
+    "glyph": "8",
+    "suit": "cups",
+    "image": "/tarot/cu08.jpg",
+    "names": {
+      "en": "Eight of Cups",
+      "ka": "თასების რვა",
+      "ru": "Восьмёрка Кубков"
+    },
+    "keywords": {
+      "en": "Longing · Dissatisfaction · Quest · Departure",
+      "ka": "წასვლა · მეტის ძიება · მიშორება",
+      "ru": "Уход · Поиск большего · Уход"
+    },
+    "meanings": {
+      "en": "Someone's \"stepping out\" on you, now or in the near future. Maybe it's time to quit talking about the problem and just move on. In the upright Rider–Waite–Smith sense: Wanting something better; Blazing your own trail; Realizing there must be more to life.",
+      "ka": "თასების რვა ტოვებს დაწყობილ თასებს მთვარის ქვეშ. რაც ოდესღაც საკმარისი იყო, აღარ კვებავს სულს, იარე უფრო ღრმა მნიშვნელობისკენ.",
+      "ru": "Восьмёрка Кубков оставляет стопку чаш под луной. То, что когда-то хватало, больше не кормит душу, иди к более глубому смыслу."
+    }
+  },
+  {
+    "key": "nine-cups",
+    "glyph": "9",
+    "suit": "cups",
+    "image": "/tarot/cu09.jpg",
+    "names": {
+      "en": "Nine of Cups",
+      "ka": "თასების ცხრა",
+      "ru": "Девятка Кубков"
+    },
+    "keywords": {
+      "en": "Satisfaction · Sensuality · Luxury · Pleasure",
+      "ka": "სურვილის შესრულება · კმაყოფილება · კომფორტი",
+      "ru": "Исполнение желания · Удовлетворение · Комфорт"
+    },
+    "meanings": {
+      "en": "Whatever you want, you'll get it. In the upright Rider–Waite–Smith sense: Being delighted with your own achievements; Recognizing your own talents and abilities; Reveling in the good things life has to offer.",
+      "ka": "თასების ცხრა სურვილის კარტია, კმაყოფილება და პირადი დაკმაყოფილება. ისიამოვნე დამსახურებული სიამოვნებით, მაგრამ დარჩე გულუხვი, რათა სიამაყემ გული არ დახუროს.",
+      "ru": "Девятка Кубков, карта желаний: удовлетворённость и личное удовольствие. Наслаждайся заслуженным удовольствием, но оставайся щедрым, чтобы гордыня не закрыла сердце."
+    }
+  },
+  {
+    "key": "ten-cups",
+    "glyph": "10",
+    "suit": "cups",
+    "image": "/tarot/cu10.jpg",
+    "names": {
+      "en": "Ten of Cups",
+      "ka": "თასების ათი",
+      "ru": "Десятка Кубков"
+    },
+    "keywords": {
+      "en": "Joy · Fulfillment · Overwhelming emotion · Giddiness",
+      "ka": "ემოციური სისრულე · ოჯახი · ხანგრძლივი სიხარული",
+      "ru": "Эмоциональная полнота · Семья · Длинная радость"
+    },
+    "meanings": {
+      "en": "Marriage and family are in the cards. Expect a friendship to blossom into a romance. In the upright Rider–Waite–Smith sense: Having more than you ever dreamed; Being deeply thankful for all you've been given; Recognizing the Hand of God in the gifts the Universe brings your way.",
+      "ka": "თასების ათი ცისარტყელაა სახლის ზემოთ, ხანგრძლივი ემოციური ჰარმონია. სიყვარული ოჯახში ან ნამდვილ კუთვნილებაში ასრულებს გულის ციკლს.",
+      "ru": "Десятка Кубков, радуга над домом: длительная эмоциональная гармония. Любовь в семье или истинная принадлежность завершает цикл сердца."
+    }
+  },
+  {
+    "key": "page-cups",
+    "glyph": "P",
+    "suit": "cups",
+    "image": "/tarot/cupa.jpg",
+    "names": {
+      "en": "Page of Cups",
+      "ka": "თასების გვერდი",
+      "ru": "Паж Кубков"
+    },
+    "keywords": {
+      "en": "Enthusiasm · First impressions · Romanticism · Superficiality",
+      "ka": "მეოცნებე · ნაზი ამბები · შემოქმედებითი გრძნობა",
+      "ru": "Мечтатель · Нежные вести · Творческое чувство"
+    },
+    "meanings": {
+      "en": "This card represents a young man or woman with a watery, dreamy demeanor, likely born a Libra, Scorpio, or Sagittarius, who wants to start a new relationship with you. In the upright Rider–Waite–Smith sense: Showing your emotions freely; Throwing yourself into romance; Nursing a secret crush.",
+      "ka": "თასების გვერდი თავაზობს ფანტაზიის თევზს, ნაზ შეტყობინებებს და ემოციურ დასაწყისებს. მიიღე ინტუიცია საბავშვო გახსნილობით.",
+      "ru": "Паж Кубков предлагает рыбку воображения, нежные вести и эмоциональные начала. Прими интуицию с детской открытостью."
+    }
+  },
+  {
+    "key": "knight-cups",
+    "glyph": "Kn",
+    "suit": "cups",
+    "image": "/tarot/cukn.jpg",
+    "names": {
+      "en": "Knight of Cups",
+      "ka": "თასების რაინდი",
+      "ru": "Рыцарь Кубков"
+    },
+    "keywords": {
+      "en": "Fervor · Zeal · Moodiness · Illumination",
+      "ka": "რომანტიკა · იდეალიზმი · მოწვევა",
+      "ru": "Романтика · Идеализм · Приглашение"
+    },
+    "meanings": {
+      "en": "This card represents a man with an emotional, sensitive personality, likely born between October 13th and November 11th, who wants you to rally around his latest passionate cause. In the upright Rider–Waite–Smith sense: Being deeply committed to a cause; Giving in to strong emotions, from excitement to depression; Acting on intuition alone.",
+      "ka": "თასების რაინდი მოდის რომანტიკულ ელჩად. მიყევი ლამაზ მოწვევას, მაგრამ შეამოწმე, შეუძლია თუ არა სიზმარს დღის სინათლეში ცხოვრება.",
+      "ru": "Рыцарь Кубков приходит как романтический посланник. Следуй красивому приглашению, но проверь, может ли мечта жить при дневном свете."
+    }
+  },
+  {
+    "key": "queen-cups",
+    "glyph": "Q",
+    "suit": "cups",
+    "image": "/tarot/cuqu.jpg",
+    "names": {
+      "en": "Queen of Cups",
+      "ka": "თასების დედოფალი",
+      "ru": "Королева Кубков"
+    },
+    "keywords": {
+      "en": "Insightfulness · Spirituality · Compassion · Empathy",
+      "ka": "ემპათია · ინტუიცია · ემოციური სიღრმე",
+      "ru": "Эмпатия · Интуиция · Эмоциональная глубина"
+    },
+    "meanings": {
+      "en": "This card represents a woman with an emotional, deeply spiritual nature, likely born between June 11th and July 11th, who uses emotional and spiritual appeals to sway others to her point of view. In the upright Rider–Waite–Smith sense: Allowing yourself to be moved by the plight of others; Feeling strong emotions; Possessing unusual sympathy or empathy.",
+      "ka": "თასების დედოფალი იკავებს გრძნობების ზღვას მშვიდი ოსტატობით. თანაგრძნობა და ფსიქური მგრძნობელობა უხელმძღვანელობს, იზრუნე სხვებზე ისე, რომ არ ჩაიძირო.",
+      "ru": "Королева Кубков держит море чувств с спокойным мастерством. Сострадание и психическая чуткость ведут, заботься о других, не тонув."
+    }
+  },
+  {
+    "key": "king-cups",
+    "glyph": "K",
+    "suit": "cups",
+    "image": "/tarot/cuki.jpg",
+    "names": {
+      "en": "King of Cups",
+      "ka": "თასების მეფე",
+      "ru": "Король Кубков"
+    },
+    "keywords": {
+      "en": "Wisdom · Diplomacy · Restraint · Composure",
+      "ka": "ემოციური ოსტატობა · დიპლომატია · მშვიდი სიღრმე",
+      "ru": "Эмоциональное мастерство · Дипломатия · Спокойная глубина"
+    },
+    "meanings": {
+      "en": "This card represents an older man with a gentle, sensitive presence, likely born between February 9th and March 10th, who is known for his fairness and tolerance. In the upright Rider–Waite–Smith sense: Keeping a stiff upper lip; Being brave and clear in the face of adverse circumstances; Sharing experience as a way of comforting others.",
+      "ka": "თასების მეფე მეფობს ემოციების მოქცევებზე მოწიფული სიმშვიდით. შესთავაზე ბრძენი რჩევა და მტკიცე თანაგრძნობა; ღრმად იგრძენ ისე, რომ არ წაგიღოს.",
+      "ru": "Король Кубков правит приливами эмоций с зрелой спокойствием. Предлагай мудрый совет и устойчивое сострадание; чувствуй глубоко, не будучи унесён."
+    }
+  },
+  {
+    "key": "ace-swords",
+    "glyph": "A",
+    "suit": "swords",
+    "image": "/tarot/swac.jpg",
+    "names": {
+      "en": "Ace of Swords",
+      "ka": "მახვილების ტუზი",
+      "ru": "Туз Мечей"
+    },
+    "keywords": {
+      "en": "Logic · Objectivity · Intellect · Choice",
+      "ka": "სიცხადე · გარღვევა · გონებრივი თესლი",
+      "ru": "Ясность · Прорыв · Мысленное семя"
+    },
+    "meanings": {
+      "en": "The time to make a choice is now. Stop wavering and do what you know is best. In the upright Rider–Waite–Smith sense: Making objective decisions; Applying logic; Reasoning your way out of a difficult situation.",
+      "ka": "მახვილების ტუზი სიმართლით ჭრის დაბნეულებას. მკაფიო იდეა, გულწრფელი სიტყვა ან გადაწყვეტილი შეცნობა ასუფთავებს ჰაერს, იქონიე სიცხადე სისასტიკის გარეშე.",
+      "ru": "Туз Мечей рассекает путаницу правдой. Острая идея, честное слово или решительное прозрение очищает воздух, владей ясностью без жестокости."
+    }
+  },
+  {
+    "key": "two-swords",
+    "glyph": "2",
+    "suit": "swords",
+    "image": "/tarot/sw02.jpg",
+    "names": {
+      "en": "Two of Swords",
+      "ka": "მახვილების ორი",
+      "ru": "Двойка Мечей"
+    },
+    "keywords": {
+      "en": "Denial · Debate · Impasse · Truce",
+      "ka": "ჩიხი · ძნელი არჩევანი · ზავი",
+      "ru": "Тупик · Трудный выбор · Перемирие"
+    },
+    "meanings": {
+      "en": "Sometimes, the only way to win is to refuse to fight. You're stuck for now; let time pass before taking action. In the upright Rider–Waite–Smith sense: Refusing to make a decision without getting the facts; Exploring both sides of an argument; Arguing passionately for what you believe in.",
+      "ka": "მახვილების ორი თვალს უხვევს გულს მახვილებს შორის. გადაწყვეტილება ელოდება, მოიხსენი თვალსახვევი, იგრძენ და აირჩიე, გაყინვის ნაცვლად.",
+      "ru": "Двойка Мечей завязывает глаза между клинками. Решение ждёт, сними повязку, почувствуй и выбери, а не замирай."
+    }
+  },
+  {
+    "key": "three-swords",
+    "glyph": "3",
+    "suit": "swords",
+    "image": "/tarot/sw03.jpg",
+    "names": {
+      "en": "Three of Swords",
+      "ka": "მახვილების სამი",
+      "ru": "Тройка Мечей"
+    },
+    "keywords": {
+      "en": "Variance · Difference · Dissatisfaction · Heartache",
+      "ka": "გატეხილი გული · მწუხარება · მტკივნეული სიმართლე",
+      "ru": "Разбитое сердце · Печаль · Больная правда"
+    },
+    "meanings": {
+      "en": "Breakups and infidelity abound. What hurts now, though, will turn out to be good for you later on. In the upright Rider–Waite–Smith sense: Being brave enough to see things as they really are; Exercising your critical eye; Being your own best critic.",
+      "ka": "მახვილების სამი მკაფიო მწუხარებით გმირავს. მტკივნეული სიმართლე ან გაყოფა ჭრის, დაასახელე ტკივილი, რათა განკურნება დაიწყოს.",
+      "ru": "Тройка Мечей пронзает ясной печалью. Больная правда или разлука режет, назови боль, чтобы началось исцеление."
+    }
+  },
+  {
+    "key": "four-swords",
+    "glyph": "4",
+    "suit": "swords",
+    "image": "/tarot/sw04.jpg",
+    "names": {
+      "en": "Four of Swords",
+      "ka": "მახვილების ოთხი",
+      "ru": "Четвёрка Мечей"
+    },
+    "keywords": {
+      "en": "Meditation · Contemplation · Perspective · Mindset",
+      "ka": "დასვენება · აღდგენა · სიჩუმე",
+      "ru": "Отдых · Восстановление · Неподвижность"
+    },
+    "meanings": {
+      "en": "Don't make any decision now. Wait, and you'll be glad you did. In the upright Rider–Waite–Smith sense: Thinking over your plans before putting them into action; Pausing to meditate or clear your mind; Taking time to understand someone or something before criticizing it.",
+      "ka": "მახვილების ოთხი მშვიდ აღდგენაშია. გადი გონებისა და სხეულის განსაკურნებლად; იძულებითი მოქმედება ახლა მხოლოდ გააღრმავებს დაღლას.",
+      "ru": "Четвёрка Мечей лежит в тихом восстановлении. Отойди, чтобы исцелить ум и тело; вынужденное действие сейчас лишь углубит истощение."
+    }
+  },
+  {
+    "key": "five-swords",
+    "glyph": "5",
+    "suit": "swords",
+    "image": "/tarot/sw05.jpg",
+    "names": {
+      "en": "Five of Swords",
+      "ka": "მახვილების ხუთი",
+      "ru": "Пятёрка Мечей"
+    },
+    "keywords": {
+      "en": "Selfishness · Hostility · Irrationality · Self-preservation",
+      "ka": "დამარცხება · ცარიელი გამარჯვება · კონფლიქტის შედეგი",
+      "ru": "Поражение · Пустая победа · Последствия конфликта"
+    },
+    "meanings": {
+      "en": "Someone is stealing from you, financially or romantically. Be wary of friends who talk behind your back. In the upright Rider–Waite–Smith sense: Acting in your own best interest; Choosing to stand up for yourself; Not backing down from disagreement and discord.",
+      "ka": "მახვილების ხუთი იგებს ფასად, სიამაყე ან სიბრაზე აოხრებს ველს. იკითხე, ღირდა თუ არა ბრძოლა იმ მარტოობის ფასად.",
+      "ru": "Пятёрка Мечей побеждает ценой, гордыня или злость опустошает поле. Спроси, стоила ли битва одиночества, которое оставляет."
+    }
+  },
+  {
+    "key": "six-swords",
+    "glyph": "6",
+    "suit": "swords",
+    "image": "/tarot/sw06.jpg",
+    "names": {
+      "en": "Six of Swords",
+      "ka": "მახვილების ექვსი",
+      "ru": "Шестёрка Мечей"
+    },
+    "keywords": {
+      "en": "Adaptation · Adjustments · Science · Travel",
+      "ka": "გადასვლა · გადაცურვა · უფრო მშვიდი წყლები",
+      "ru": "Переход · Переправа · Более спокойные воды"
+    },
+    "meanings": {
+      "en": "You'll soon go on a long journey over water. Actions have unexpected consequences, so be prepared. In the upright Rider–Waite–Smith sense: Making the best of a bad situation; Recovering from defeat; Resetting expectations.",
+      "ka": "მახვილების ექვსი გადაგიყვანს უბედურებიდან უფრო მშვიდი ნაპირებისკენ. გადასვლა შეიძლება სევდიანი იყოს, მაგრამ შემსუბუქება წინ ელოდება.",
+      "ru": "Шестёрка Мечей перевозит тебя от беды к более тихим берегам. Переправа может быть грустной, но впереди ждёт облегчение."
+    }
+  },
+  {
+    "key": "seven-swords",
+    "glyph": "7",
+    "suit": "swords",
+    "image": "/tarot/sw07.jpg",
+    "names": {
+      "en": "Seven of Swords",
+      "ka": "მახვილების შვიდი",
+      "ru": "Семёрка Мечей"
+    },
+    "keywords": {
+      "en": "Dishonesty · Presumption · Sneakiness · Assumptions",
+      "ka": "სტრატეგია · მოტყუება · ცბიერი გაქცევა",
+      "ru": "Стратегия · Обман · Хитрый уход"
+    },
+    "meanings": {
+      "en": "Don't assume people around you are worthy of your trust. Ask for an accounting of where people have been, and what they've been doing. In the upright Rider–Waite–Smith sense: Refusing to do something dishonest, even when there's no chance of ever being caught; Handling a difficult situation with finesse; Pointing out assumptions.",
+      "ka": "მახვილების შვიდი მოპარებული მახვილებით გადის. სტრატეგია ან საიდუმლო მოძრაობს, იმოქმედე ცბიერად, მაგრამ უფრთხილდი თვითმოტყუებას.",
+      "ru": "Семёрка Мечей ускользает с украденными клинками. Наносятся стратегия или тайна, действуй хитро, но смотри за самообманом."
+    }
+  },
+  {
+    "key": "eight-swords",
+    "glyph": "8",
+    "suit": "swords",
+    "image": "/tarot/sw08.jpg",
+    "names": {
+      "en": "Eight of Swords",
+      "ka": "მახვილების რვა",
+      "ru": "Восьмёрка Мечей"
+    },
+    "keywords": {
+      "en": "Restriction · Limitation · Confinement · Helplessness",
+      "ka": "შეზღუდვა · ლიმიტი · ტყვეობა · უძლურება",
+      "ru": "Restriction · Limitation · Confinement · Helplessness"
+    },
+    "meanings": {
+      "en": "Get over playing the victim. Once you realize you are your own biggest obstacle, nothing can hold you back. In the upright Rider–Waite–Smith sense: Honoring limits; Respecting the rules; Deciding to go on a diet for your health's sake.",
+      "ka": "შენ თვითონ ხარ შენი უდიდესი დაბრკოლება, აღიარე ეს და ბორკილები იხსნება. პატივი ეცი საზღვრებს, მაგრამ ნუ ითამაშე მსხვერპლის როლს.",
+      "ru": "Get over playing the victim. Once you realize you are your own biggest obstacle, nothing can hold you back. In the upright Rider–Waite–Smith sense: Honoring limits; Respecting the rules; Deciding to go on a diet for your health's sake."
+    }
+  },
+  {
+    "key": "nine-swords",
+    "glyph": "9",
+    "suit": "swords",
+    "image": "/tarot/sw09.jpg",
+    "names": {
+      "en": "Nine of Swords",
+      "ka": "მახვილების ცხრა",
+      "ru": "Девятка Мечей"
+    },
+    "keywords": {
+      "en": "Remorse · Worry · Distraught · Conclusion",
+      "ka": "სინანული · შფოთვა · ტანჯვა · დასკვნა",
+      "ru": "Remorse · Worry · Distraught · Conclusion"
+    },
+    "meanings": {
+      "en": "If you take the action you're considering now, you'll be sorry in the future. In the upright Rider–Waite–Smith sense: Refusing to worry about what you cannot control; Rejecting anxiety; Judging your own performance with kindness and gentleness.",
+      "ka": "თუ ახლა იმას გააკეთებ, რასაც განიხილავ, მომავალში ინანებ. ნუ ღელავ იმაზე, რასაც ვერ აკონტროლებ; იყავი რბილი საკუთარი თავის მიმართ.",
+      "ru": "If you take the action you're considering now, you'll be sorry in the future. In the upright Rider–Waite–Smith sense: Refusing to worry about what you cannot control; Rejecting anxiety; Judging your own performance with kindness and gentleness."
+    }
+  },
+  {
+    "key": "ten-swords",
+    "glyph": "10",
+    "suit": "swords",
+    "image": "/tarot/sw10.jpg",
+    "names": {
+      "en": "Ten of Swords",
+      "ka": "მახვილების ათი",
+      "ru": "Десятка Мечей"
+    },
+    "keywords": {
+      "en": "Exhaustion · Ruin · Disaster · Stamina",
+      "ka": "გამოფიტვა · ნგრევა · კატასტროფა · გამძლეობა",
+      "ru": "Exhaustion · Ruin · Disaster · Stamina"
+    },
+    "meanings": {
+      "en": "Disaster. Put off plans and do not take action until omens are better. In the upright Rider–Waite–Smith sense: Seeing the signs that you've reached your limits; Paying attention to what your body is trying to tell you; Giving in to the need for rest and renewal.",
+      "ka": "ბოლო, შეაჩერე გეგმები და დაისვენე, სანამ ნიშნები არ გაუმჯობესდება. სხეული გეუბნება, რომ ზღვარს მიაღწიე; განახლება აუცილებელია.",
+      "ru": "Disaster. Put off plans and do not take action until omens are better. In the upright Rider–Waite–Smith sense: Seeing the signs that you've reached your limits; Paying attention to what your body is trying to tell you; Giving in to the need for rest and renewal."
+    }
+  },
+  {
+    "key": "page-swords",
+    "glyph": "P",
+    "suit": "swords",
+    "image": "/tarot/swpa.jpg",
+    "names": {
+      "en": "Page of Swords",
+      "ka": "მახვილების გვერდი",
+      "ru": "Паж Мечей"
+    },
+    "keywords": {
+      "en": "Student · Apprentice · Scholarship · Information",
+      "ka": "მოსწავლე · მოწაფე · სწავლა · ინფორმაცია",
+      "ru": "Student · Apprentice · Scholarship · Information"
+    },
+    "meanings": {
+      "en": "This card represents a young man or woman with an airy, intellectual demeanor, likely born a Capricorn, Aquarius, or Pisces, who wants to learn something new from you or have a discussion with you. In the upright Rider–Waite–Smith sense: Pursuing a course of study; Asking good questions; Investing time in study and practice.",
+      "ka": "ახალგაზრდა, ცნობისმოყვარე გონება, ისწავლე, დასვი კარგი კითხვები და დრო დაუთმე პრაქტიკას.",
+      "ru": "This card represents a young man or woman with an airy, intellectual demeanor, likely born a Capricorn, Aquarius, or Pisces, who wants to learn something new from you or have a discussion with you. In the upright Rider–Waite–Smith sense: Pursuing a course of study; Asking good questions; Investing time in study and practice."
+    }
+  },
+  {
+    "key": "knight-swords",
+    "glyph": "Kn",
+    "suit": "swords",
+    "image": "/tarot/swkn.jpg",
+    "names": {
+      "en": "Knight of Swords",
+      "ka": "მახვილების რაინდი",
+      "ru": "Рыцарь Мечей"
+    },
+    "keywords": {
+      "en": "Bluntness · Intelligence · Incisiveness · Investigation",
+      "ka": "პირდაპირობა · ინტელექტი · სიმკვეთრე · გამოძიება",
+      "ru": "Bluntness · Intelligence · Incisiveness · Investigation"
+    },
+    "meanings": {
+      "en": "A blunder leads someone to say something he or she regrets. If this was you, be prepared to apologize and move on. In the upright Rider–Waite–Smith sense: Speaking your mind; Making your opinions known; Offering constructive criticism.",
+      "ka": "სიტყვამ შეიძლება დაგაზიანოს, თუ შენ თქვი, მოიხადე ბოდიში და წინ წადი. თქვი აზრი გულწრფელად და კონსტრუქციულად.",
+      "ru": "A blunder leads someone to say something he or she regrets. If this was you, be prepared to apologize and move on. In the upright Rider–Waite–Smith sense: Speaking your mind; Making your opinions known; Offering constructive criticism."
+    }
+  },
+  {
+    "key": "queen-swords",
+    "glyph": "Q",
+    "suit": "swords",
+    "image": "/tarot/swqu.jpg",
+    "names": {
+      "en": "Queen of Swords",
+      "ka": "მახვილების დედოფალი",
+      "ru": "Королева Мечей"
+    },
+    "keywords": {
+      "en": "Grace · Skill · Wit · Charm",
+      "ka": "მადლი · ოსტატობა · ჭკუა · ხიბლი",
+      "ru": "Grace · Skill · Wit · Charm"
+    },
+    "meanings": {
+      "en": "This card represents a woman with an artistic, intellectual nature, likely born between September 12th and October 12th, who uses clever, positive communication to sway others to her point of view. In the upright Rider–Waite–Smith sense: Exercising tact or using diplomacy; Defusing a tense situation; Knowing what to say and how to say it.",
+      "ka": "ჭკვიანი, დიპლომატიური ქალი, სიტყვით არწმუნებს სხვებს. ტაქტი და სწორი სიტყვა დაძაბულობას ხსნის.",
+      "ru": "This card represents a woman with an artistic, intellectual nature, likely born between September 12th and October 12th, who uses clever, positive communication to sway others to her point of view. In the upright Rider–Waite–Smith sense: Exercising tact or using diplomacy; Defusing a tense situation; Knowing what to say and how to say it."
+    }
+  },
+  {
+    "key": "king-swords",
+    "glyph": "K",
+    "suit": "swords",
+    "image": "/tarot/swki.jpg",
+    "names": {
+      "en": "King of Swords",
+      "ka": "მახვილების მეფე",
+      "ru": "Король Мечей"
+    },
+    "keywords": {
+      "en": "Genius · Expertise · Decision · Verdict",
+      "ka": "გენიოსი · ექსპერტიზა · გადაწყვეტილება · განაჩენი",
+      "ru": "Genius · Expertise · Decision · Verdict"
+    },
+    "meanings": {
+      "en": "This card represents an older man with an insightful, deliberate spirit, likely born between May 11th and June 10th, who is known for his integrity and sharp decision-making ability. In the upright Rider–Waite–Smith sense: Expressing yourself with firmness and authority; Rendering a final decision; Consulting an expert.",
+      "ka": "ბრძენი, მტკიცე მსაჯული, გადაწყვეტილებას იღებს სიმკაცრითა და სამართლიანობით. თქვი აზრი ავტორიტეტით ან ეკითხე ექსპერტს.",
+      "ru": "This card represents an older man with an insightful, deliberate spirit, likely born between May 11th and June 10th, who is known for his integrity and sharp decision-making ability. In the upright Rider–Waite–Smith sense: Expressing yourself with firmness and authority; Rendering a final decision; Consulting an expert."
+    }
+  },
+  {
+    "key": "ace-pentacles",
+    "glyph": "A",
+    "suit": "pentacles",
+    "image": "/tarot/peac.jpg",
+    "names": {
+      "en": "Ace of Pentacles",
+      "ka": "პენტაკლების ტუზი",
+      "ru": "Туз Пентаклей"
+    },
+    "keywords": {
+      "en": "Health · Wealth · Practicality · Receiving",
+      "ka": "შანსი · კეთილდღიერების თესლი · ახალი რესურსი",
+      "ru": "Возможность · Семя достатка · Новый ресурс"
+    },
+    "meanings": {
+      "en": "Your health will improve. The check you're looking for really is in the mail. In the upright Rider–Waite–Smith sense: Outlining a plan for achieving prosperity; Becoming aware of opportunities to improve income or health; Realizing you have everything you need.",
+      "ka": "პენტაკლების ტუზი თავაზობს ხელშესახებ დასაწყისს, სამუშაოს, ფულს, ჯანმრთელობას ან ხელოსნობას. დარგე თესლი რეალურ ნიადაგში და იზრუნე პრაქტიკული ზრუნვით.",
+      "ru": "Туз Пентаклей предлагает осязаемое начало, работу, деньги, здоровье или ремесло. Посади семя в реальную почву и ухаживай с практической заботой."
+    }
+  },
+  {
+    "key": "two-pentacles",
+    "glyph": "2",
+    "suit": "pentacles",
+    "image": "/tarot/pe02.jpg",
+    "names": {
+      "en": "Two of Pentacles",
+      "ka": "პენტაკლების ორი",
+      "ru": "Двойка Пентаклей"
+    },
+    "keywords": {
+      "en": "Evaluation · Decision · Budgeting · Diagnosis",
+      "ka": "ბალანსი · ჟონგლირება · ადაპტირება",
+      "ru": "Баланс · Жонглирование · Гибкость"
+    },
+    "meanings": {
+      "en": "It's time to balance the budget. Avoid the temptation to spend critical funds on frivolous goods. In the upright Rider–Waite–Smith sense: Weighing options; Comparing prices; Determining the value of one option over another.",
+      "ka": "პენტაკლების ორი ცეკვავს ცვლადი პრიორიტეტებით. შეინარჩუნე მოქნილი ფეხი, ფული, დრო და მოვალეობა შეიძლება მოხდენილად დააბალანსო.",
+      "ru": "Двойка Пентаклей танцует с меняющимися приоритетами. Держи гибкую опору, деньги, время и обязанности можно жонглировать с изяществом."
+    }
+  },
+  {
+    "key": "three-pentacles",
+    "glyph": "3",
+    "suit": "pentacles",
+    "image": "/tarot/pe03.jpg",
+    "names": {
+      "en": "Three of Pentacles",
+      "ka": "პენტაკლების სამი",
+      "ru": "Тройка Пентаклей"
+    },
+    "keywords": {
+      "en": "Expression · Production · Work · Contribution",
+      "ka": "ხელოსანი · თანამშრომლობა · ოსტატობა",
+      "ru": "Ремесло · Сотрудничество · Мастерство"
+    },
+    "meanings": {
+      "en": "A high-dollar contract is in your future. If you work hard, you'll succeed. In the upright Rider–Waite–Smith sense: Finishing a project; Setting and meeting standards; Performing according to specifications.",
+      "ka": "პენტაკლების სამი აშენებს სრულყოფილებას გუნდითა და ხელოსნობით. შენი ოსტატობა შენიშნულია, ითანამშრომლე და გააუმჯობესე სამუშაო.",
+      "ru": "Тройка Пентаклей строит совершенство через команду и ремесло. Твоё мастерство замечено, сотрудничай и оттачивай работу."
+    }
+  },
+  {
+    "key": "four-pentacles",
+    "glyph": "4",
+    "suit": "pentacles",
+    "image": "/tarot/pe04.jpg",
+    "names": {
+      "en": "Four of Pentacles",
+      "ka": "პენტაკლების ოთხი",
+      "ru": "Четвёрка Пентаклей"
+    },
+    "keywords": {
+      "en": "Protection · Conservation · Preservation · Safety",
+      "ka": "უსაფრთხოება · კონტროლი · მყარი შეკავება",
+      "ru": "Безопасность · Контроль · Крепкая хватка"
+    },
+    "meanings": {
+      "en": "A rainy day is coming, it's time to save. In the upright Rider–Waite–Smith sense: Saving for a rainy day; Fasting as part of a spiritual practice; Dieting in an effort to improve your body.",
+      "ka": "პენტაკლების ოთხი ეჭიდება მონეტასა და კომფორტს. სტაბილურობა მნიშვნელოვანია, მაგრამ დაკარგვის შიშმა შეიძლება გააყინოს გულუხვობა და ზრდა.",
+      "ru": "Четвёрка Пентаклей цепляется за монету и уют. Стабильность важна, но страх потери может заморозить щедрость и рост."
+    }
+  },
+  {
+    "key": "five-pentacles",
+    "glyph": "5",
+    "suit": "pentacles",
+    "image": "/tarot/pe05.jpg",
+    "names": {
+      "en": "Five of Pentacles",
+      "ka": "პენტაკლების ხუთი",
+      "ru": "Пятёрка Пентаклей"
+    },
+    "keywords": {
+      "en": "Poverty · Destitution · Need · Crisis",
+      "ka": "სიძნელე · უკმარისობა · დახმარების თხოვნა",
+      "ru": "Нужда · Нехватка · Просьба о помощи"
+    },
+    "meanings": {
+      "en": "Finances are getting tighter. Prepare for a setback. In the upright Rider–Waite–Smith sense: Recognizing your needs and taking action to fulfill them; Doing as much as you can do with what little you have; Admitting you need help.",
+      "ka": "პენტაკლების ხუთი დადის ცივში განათებული ფანჯრის გარეთ. მატერიალური ან ჯანმრთელობის სიძნელე ნამდვილია, დახმარება არსებობს, თუ ნებას მისცემ თავს, ეძებო.",
+      "ru": "Пятёрка Пентаклей идёт в холоде за освещённым окном. Материальная или здоровая нужда реальна, помощь есть, если позволишь себе искать её."
+    }
+  },
+  {
+    "key": "six-pentacles",
+    "glyph": "6",
+    "suit": "pentacles",
+    "image": "/tarot/pe06.jpg",
+    "names": {
+      "en": "Six of Pentacles",
+      "ka": "პენტაკლების ექვსი",
+      "ru": "Шестёрка Пентаклей"
+    },
+    "keywords": {
+      "en": "Charity · Fairness · Cooperation · Sharing",
+      "ka": "გულუხვობა · გაზიარება · სამართლიანი გაცვლა",
+      "ru": "Щедрость · Обмен · Справедливый обмен"
+    },
+    "meanings": {
+      "en": "When you need help, ask for it. Remember, though: what you receive may be limited by what you've given to others in the past. In the upright Rider–Waite–Smith sense: Giving time, money, or effort to a charity; Taking part in a group effort; Lending your resources to others without expecting anything in return.",
+      "ka": "პენტაკლების ექვსი აბალანსებს მიცემასა და მიღებას. ქველმოქმედება, სამართლიანი ანაზღაურება ან ურთიერთი მხარდაჭერა აბრუნებს ღირსებას ორივე მხარეზე.",
+      "ru": "Шестёрка Пентаклей уравновешивает даяние и принятие. Благотворительность, справедливая оплата или взаимная поддержка возвращают достоинство обеим сторонам дара."
+    }
+  },
+  {
+    "key": "seven-pentacles",
+    "glyph": "7",
+    "suit": "pentacles",
+    "image": "/tarot/pe07.jpg",
+    "names": {
+      "en": "Seven of Pentacles",
+      "ka": "პენტაკლების შვიდი",
+      "ru": "Семёрка Пентаклей"
+    },
+    "keywords": {
+      "en": "Assessment · Evaluation · Re-evaluation · Reflection",
+      "ka": "მოთმინება · შეფასება · ხანგრძლივი ინვესტიცია",
+      "ru": "Терпение · Оценка · Долгое вложение"
+    },
+    "meanings": {
+      "en": "Things won't work out as expected. Pick up the pieces and prepare to move on. In the upright Rider–Waite–Smith sense: Measuring progress toward your goal; Looking at results with an eye toward improving performance; Asking, \"How happy am I?\".",
+      "ka": "პენტაკლების შვიდი ჩერდება მოსავლის შეფასებისთვის. ძალისხმევა დარგულია, დაელოდე, გადახედე შედეგებს და გადაწყვიტე, რა იმსახურებს კიდევ შენს შრომას.",
+      "ru": "Семёрка Пентаклей останавливается оценить урожай. Труд посажен, подожди, обозри результаты и реши, что ещё заслуживает твоего труда."
+    }
+  },
+  {
+    "key": "eight-pentacles",
+    "glyph": "8",
+    "suit": "pentacles",
+    "image": "/tarot/pe08.jpg",
+    "names": {
+      "en": "Eight of Pentacles",
+      "ka": "პენტაკლების რვა",
+      "ru": "Восьмёрка Пентаклей"
+    },
+    "keywords": {
+      "en": "Effort · Work diligence · Skill",
+      "ka": "ოსტატობა · შრომა · დახვეწა · ხელოსნობა",
+      "ru": "Effort · Work diligence · Skill"
+    },
+    "meanings": {
+      "en": "Stop over-analyzing, researching, and outlining. Buckle down and get the work done. In the upright Rider–Waite–Smith sense: Doing your best; Bringing enthusiasm and zeal to your work; Making an effort to be the best you can be.",
+      "ka": "იმუშავე ოსტატობაზე, განმეორებითი პრაქტიკა ნაყოფს გამოიღებს. ყურადღება მიაქციე დეტალებსა და ხელოსნობას.",
+      "ru": "Stop over-analyzing, researching, and outlining. Buckle down and get the work done. In the upright Rider–Waite–Smith sense: Doing your best; Bringing enthusiasm and zeal to your work; Making an effort to be the best you can be."
+    }
+  },
+  {
+    "key": "nine-pentacles",
+    "glyph": "9",
+    "suit": "pentacles",
+    "image": "/tarot/pe09.jpg",
+    "names": {
+      "en": "Nine of Pentacles",
+      "ka": "პენტაკლების ცხრა",
+      "ru": "Девятка Пентаклей"
+    },
+    "keywords": {
+      "en": "Training · Discipline · Confidence · Enough",
+      "ka": "დამოუკიდებლობა · კომფორტი · მოსავალი · თვითკმარობა",
+      "ru": "Training · Discipline · Confidence · Enough"
+    },
+    "meanings": {
+      "en": "Until you appreciate what you have, you won't have any luck getting more. In the upright Rider–Waite–Smith sense: Investing time in learning or teaching a difficult task; Restraining yourself from physical or financial extremes; Making sacrifices as a way of achieving larger goals.",
+      "ka": "შენი შრომის ნაყოფი, კომფორტი და დამოუკიდებლობა. ისიამოვნე იმით, რაც ააშენე, და დაიცავი საზღვრები.",
+      "ru": "Until you appreciate what you have, you won't have any luck getting more. In the upright Rider–Waite–Smith sense: Investing time in learning or teaching a difficult task; Restraining yourself from physical or financial extremes; Making sacrifices as a way of achieving larger goals."
+    }
+  },
+  {
+    "key": "ten-pentacles",
+    "glyph": "10",
+    "suit": "pentacles",
+    "image": "/tarot/pe10.jpg",
+    "names": {
+      "en": "Ten of Pentacles",
+      "ka": "პენტაკლების ათი",
+      "ru": "Десятка Пентаклей"
+    },
+    "keywords": {
+      "en": "Wealth · Abundance · Acquisition · Greed",
+      "ka": "მემკვიდრეობა · ოჯახი · სტაბილურობა · სიმდიდრე",
+      "ru": "Wealth · Abundance · Acquisition · Greed"
+    },
+    "meanings": {
+      "en": "Big money is in the near future. Expect a powerful blessing to come your way. In the upright Rider–Waite–Smith sense: Celebrating your physical and financial blessings; Realizing how lucky or how blessed you are; Being satisfied with your physical and financial achievements.",
+      "ka": "გრძელვადიანი სტაბილურობა, ოჯახი და მემკვიდრეობა. ააშენე ის, რაც თაობებს გადაეცემა, სახლი, ბიზნესი, ტრადიცია.",
+      "ru": "Big money is in the near future. Expect a powerful blessing to come your way. In the upright Rider–Waite–Smith sense: Celebrating your physical and financial blessings; Realizing how lucky or how blessed you are; Being satisfied with your physical and financial achievements."
+    }
+  },
+  {
+    "key": "page-pentacles",
+    "glyph": "P",
+    "suit": "pentacles",
+    "image": "/tarot/pepa.jpg",
+    "names": {
+      "en": "Page of Pentacles",
+      "ka": "პენტაკლების გვერდი",
+      "ru": "Паж Пентаклей"
+    },
+    "keywords": {
+      "en": "Practicality · Prosperity · Learning · Growth",
+      "ka": "მოსწავლე · შესაძლებლობა · სწავლა · პრაქტიკა",
+      "ru": "Practicality · Prosperity · Learning · Growth"
+    },
+    "meanings": {
+      "en": "This card represents a young man or woman with an earthy, practical demeanor, likely born an Aries, Taurus, or Gemini, who playfully encourages you to take financial or sexual risks. In the upright Rider–Waite–Smith sense: Learning the value of a dollar; Starting a savings plan; Taking the first steps toward getting out of debt.",
+      "ka": "ახალი პრაქტიკული შესაძლებლობა, სწავლა, სტაჟირება ან პირველი ნაბიჯი ფულთან/ხელოსნობასთან. დაიწყე მოკრძალებით და სერიოზულად.",
+      "ru": "This card represents a young man or woman with an earthy, practical demeanor, likely born an Aries, Taurus, or Gemini, who playfully encourages you to take financial or sexual risks. In the upright Rider–Waite–Smith sense: Learning the value of a dollar; Starting a savings plan; Taking the first steps toward getting out of debt."
+    }
+  },
+  {
+    "key": "knight-pentacles",
+    "glyph": "Kn",
+    "suit": "pentacles",
+    "image": "/tarot/pekn.jpg",
+    "names": {
+      "en": "Knight of Pentacles",
+      "ka": "პენტაკლების რაინდი",
+      "ru": "Рыцарь Пентаклей"
+    },
+    "keywords": {
+      "en": "Caution · Focus · Realism · Invention",
+      "ka": "შრომისმოყვარეობა · სანდოობა · მოთმინება · მეთოდი",
+      "ru": "Caution · Focus · Realism · Invention"
+    },
+    "meanings": {
+      "en": "A stingy person may chide you for spending money. Be prepared to defend an economic or sexual decision. In the upright Rider–Waite–Smith sense: Spending money wisely; Saving for a rainy day; Paying close attention to physical or financial details.",
+      "ka": "ნელი, საიმედო წინსვლა. გააკეთე საქმე მეთოდურად, არ იჩქარო; თანმიმდევრულობა იმარჯვებს.",
+      "ru": "A stingy person may chide you for spending money. Be prepared to defend an economic or sexual decision. In the upright Rider–Waite–Smith sense: Spending money wisely; Saving for a rainy day; Paying close attention to physical or financial details."
+    }
+  },
+  {
+    "key": "queen-pentacles",
+    "glyph": "Q",
+    "suit": "pentacles",
+    "image": "/tarot/pequ.jpg",
+    "names": {
+      "en": "Queen of Pentacles",
+      "ka": "პენტაკლების დედოფალი",
+      "ru": "Королева Пентаклей"
+    },
+    "keywords": {
+      "en": "Luxury · Comfort · Resourcefulness · Generosity",
+      "ka": "ზრუნვა · უხვადობა · პრაქტიკულობა · სახლი",
+      "ru": "Luxury · Comfort · Resourcefulness · Generosity"
+    },
+    "meanings": {
+      "en": "This card represents a woman with an expansive, sensual nature, likely born between December 13th and 31st, who uses sensual appeal and the promise of reward to sway others to her point of view. In the upright Rider–Waite–Smith sense: Appreciating fine food, fine wine, beautiful art, beautiful bodies, or any of the better things in life; Reveling in healthy sexuality; Treating yourself.",
+      "ka": "მზრუნველი, პრაქტიკული ქალი, კვებავს სახლსა და საქმეს. ზრუნვა სხეულზე, ფულზე და ახლობლებზე მოგიტანს სიმშვიდეს.",
+      "ru": "This card represents a woman with an expansive, sensual nature, likely born between December 13th and 31st, who uses sensual appeal and the promise of reward to sway others to her point of view. In the upright Rider–Waite–Smith sense: Appreciating fine food, fine wine, beautiful art, beautiful bodies, or any of the better things in life; Reveling in healthy sexuality; Treating yourself."
+    }
+  },
+  {
+    "key": "king-pentacles",
+    "glyph": "K",
+    "suit": "pentacles",
+    "image": "/tarot/peki.jpg",
+    "names": {
+      "en": "King of Pentacles",
+      "ka": "პენტაკლების მეფე",
+      "ru": "Король Пентаклей"
+    },
+    "keywords": {
+      "en": "Stability · Dependability · Confidence · Intervention",
+      "ka": "წარმატება · უსაფრთხოება · ლიდერობა · კეთილდღეობა",
+      "ru": "Stability · Dependability · Confidence · Intervention"
+    },
+    "meanings": {
+      "en": "This card represents an older man with a financially, socially, and politically conservative spirit, likely born between August 12th and September 11th, who is known for putting his money where his mouth is. In the upright Rider–Waite–Smith sense: Becoming debt-free; Having more than enough to get by; Making contributions to a savings plan.",
+      "ka": "სტაბილური, წარმატებული ლიდერი, ფული და რესურსები უსაფრთხოდ იმართება. ააშენე მყარი საფუძველი და გაუზიარე უხვადობა.",
+      "ru": "This card represents an older man with a financially, socially, and politically conservative spirit, likely born between August 12th and September 11th, who is known for putting his money where his mouth is. In the upright Rider–Waite–Smith sense: Becoming debt-free; Having more than enough to get by; Making contributions to a savings plan."
+    }
+  }
+]
